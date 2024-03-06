@@ -25,6 +25,17 @@
 					<attribute id="Template" type="FixedString" value="Icons_Items" />
 					<attribute id="Type" type="int32" value="0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855873" />
+				</node>								
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="2545ed4d-197e-42eb-b931-e081be534f73" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Icons_Dirge" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Public/Tet42_Gunslinger/Assets/Textures/Icons/Icons_DarkGunslinger.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Icons_Items" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855873" />
 				</node>
 			</children>
 		</node>
