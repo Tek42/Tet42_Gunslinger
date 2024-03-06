@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="323"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level2" type="LSString" value="1d8,Force"/>
+                    <attribute id="Level1" type="LSString" value="1d8,Force"/>
+                    <attribute id="Level10" type="LSString" value="2d8,Force"/>
+                    <attribute id="Level11" type="LSString" value="2d8,Force"/>
+                    <attribute id="Level12" type="LSString" value="2d8,Force"/>
+                    <attribute id="Level3" type="LSString" value="1d8,Force"/>
+                    <attribute id="Level4" type="LSString" value="1d8,Force"/>
+                    <attribute id="Level5" type="LSString" value="1d12,Force"/>
+                    <attribute id="Level6" type="LSString" value="1d12,Force"/>
+                    <attribute id="Level7" type="LSString" value="1d12,Force"/>
+                    <attribute id="Level8" type="LSString" value="1d12,Force"/>
+                    <attribute id="Level9" type="LSString" value="2d8,Force"/>
+                    <attribute id="Name" type="FixedString" value="GunslingerForce"/>
+                    <attribute id="UUID" type="guid" value="ddb8b3bc-133c-46f9-8502-d7dfc4e948db"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level2" type="LSString" value="1d8"/>
+                    <attribute id="Level1" type="LSString" value="1d8"/>
+                    <attribute id="Level10" type="LSString" value="2d8"/>
+                    <attribute id="Level11" type="LSString" value="2d8"/>
+                    <attribute id="Level12" type="LSString" value="2d8"/>
+                    <attribute id="Level3" type="LSString" value="1d8"/>
+                    <attribute id="Level4" type="LSString" value="1d8"/>
+                    <attribute id="Level5" type="LSString" value="1d12"/>
+                    <attribute id="Level6" type="LSString" value="1d12"/>
+                    <attribute id="Level7" type="LSString" value="1d12"/>
+                    <attribute id="Level8" type="LSString" value="1d12"/>
+                    <attribute id="Level9" type="LSString" value="2d8"/>
+                    <attribute id="Name" type="FixedString" value="GunslingerFTH"/>
+                    <attribute id="UUID" type="guid" value="d9e63125-0d1e-42b9-812e-1d055ff45483"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level2" type="LSString" value="1d8"/>
+                    <attribute id="Level1" type="LSString" value="1d8"/>
+                    <attribute id="Level10" type="LSString" value="2d8"/>
+                    <attribute id="Level11" type="LSString" value="2d8"/>
+                    <attribute id="Level12" type="LSString" value="2d8"/>
+                    <attribute id="Level3" type="LSString" value="1d8"/>
+                    <attribute id="Level4" type="LSString" value="1d8"/>
+                    <attribute id="Level5" type="LSString" value="1d12"/>
+                    <attribute id="Level6" type="LSString" value="1d12"/>
+                    <attribute id="Level7" type="LSString" value="1d12"/>
+                    <attribute id="Level8" type="LSString" value="1d12"/>
+                    <attribute id="Level9" type="LSString" value="2d8"/>
+                    <attribute id="Name" type="FixedString" value="GunslingerScaling"/>
+                    <attribute id="UUID" type="guid" value="55dfedd3-fc85-45da-bcf2-e322face017e"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="1d8"/>
+                    <attribute id="Level1" type="LSString" value="1d8"/>
+                    <attribute id="Level10" type="LSString" value="1d10"/>
+                    <attribute id="Name" type="FixedString" value="GSSuperiorityDie"/>
+                    <attribute id="UUID" type="guid" value="fb6e045b-c6d4-42ee-b2f2-a18630dde3a0"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="2"/>
+                    <attribute id="Level2" type="LSString" value="2"/>
+                    <attribute id="Level1" type="LSString" value="2"/>
+                    <attribute id="Level10" type="LSString" value="5"/>
+                    <attribute id="Level11" type="LSString" value="6"/>
+                    <attribute id="Level12" type="LSString" value="6"/>
+                    <attribute id="Level3" type="LSString" value="2"/>
+                    <attribute id="Level4" type="LSString" value="2"/>
+                    <attribute id="Level5" type="LSString" value="3"/>
+                    <attribute id="Level6" type="LSString" value="3"/>
+                    <attribute id="Level7" type="LSString" value="4"/>
+                    <attribute id="Level8" type="LSString" value="4"/>
+                    <attribute id="Level9" type="LSString" value="5"/>
+                    <attribute id="Name" type="FixedString" value="GSTrickshot"/>
+                    <attribute id="UUID" type="guid" value="70c7c9d0-08aa-4637-a622-28b91c34b9a3"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level2" type="LSString" value="1d8,Necrotic"/>
+                    <attribute id="Level1" type="LSString" value="1d8,Necrotic"/>
+                    <attribute id="Level10" type="LSString" value="3d8,Necrotic"/>
+                    <attribute id="Level11" type="LSString" value="3d8,Necrotic"/>
+                    <attribute id="Level12" type="LSString" value="3d8,Necrotic"/>
+                    <attribute id="Level3" type="LSString" value="1d8,Necrotic"/>
+                    <attribute id="Level4" type="LSString" value="1d8,Necrotic"/>
+                    <attribute id="Level5" type="LSString" value="2d8,Necrotic"/>
+                    <attribute id="Level6" type="LSString" value="2d8,Necrotic"/>
+                    <attribute id="Level7" type="LSString" value="2d8,Necrotic"/>
+                    <attribute id="Level8" type="LSString" value="2d8,Necrotic"/>
+                    <attribute id="Level9" type="LSString" value="3d8,Necrotic"/>
+                    <attribute id="Name" type="FixedString" value="DirgeNecrotic"/>
+                    <attribute id="UUID" type="guid" value="13db464a-2a4a-4aaf-9b9d-c046c8b7d4aa"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

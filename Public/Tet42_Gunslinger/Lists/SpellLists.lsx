@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Level 1" />
+          <attribute id="Spells" type="LSString" value="Shout_GunslingerFocus;Target_AimWithMyEye" />
+          <attribute id="UUID" type="guid" value="221ad8c3-c1d7-44fa-8b5a-977c0f1c8491" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Level 2" />
+          <attribute id="Spells" type="LSString" value="Target_Smite_Gunslinger_Unlock;Target_Smite_Gunslinger_Critical_Unlock" />
+          <attribute id="UUID" type="guid" value="02636dd5-4a67-4ba1-b944-844091f75242" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Level 3" />
+          <attribute id="Spells" type="LSString" value="Target_ShootWithMyMind;Shout_InspiringPalaver;Gunslinger_Protection_Unlock;Projectile_GS_Trickshot" />
+          <attribute id="UUID" type="guid" value="02b0e949-3073-46aa-90e2-f3b17647baba" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Level 4" />
+          <attribute id="Spells" type="LSString" value="Gunslinger_Countershot_Unlock" />
+          <attribute id="UUID" type="guid" value="510f9abc-f0fc-4303-aa1f-a31ed83493b7" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Level 5" />
+          <attribute id="Spells" type="LSString" value="Target_GS_ElementalWeapon;Target_KillWithMyHeart;Gunslinger_AOO_Unlock" />
+          <attribute id="UUID" type="guid" value="f0daff9d-76fe-424d-8f2e-a13927e3b0f5" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Level 7" />
+          <attribute id="Spells" type="LSString" value="Shout_AuraOfGunslinger;Zone_GS_HV_Round" />
+          <attribute id="UUID" type="guid" value="6a347235-63e3-4c6b-80f5-157d3f36e85f" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Level 9" />
+          <attribute id="Spells" type="LSString" value="Gunslinger_Haste" />
+          <attribute id="UUID" type="guid" value="fdf8575e-ef3f-46d3-b416-b9710a636dd4" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 1" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="f915e3a2-1792-4956-a3b0-3fdc5faa913c" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 2" />
+          <attribute id="Spells" type="LSString" value="Shout_FalseLife;Dirge_MagicMissile_Container" />
+          <attribute id="UUID" type="guid" value="77b46e2f-8b80-4eac-9d57-9726ebf8fe4d" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 3" />
+          <attribute id="Spells" type="LSString" value="Target_Swarm_Rat;Gunslinger_Protection_Unlock" />
+          <attribute id="UUID" type="guid" value="73f90440-3322-4847-8c5a-f739899fff95" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 4" />
+          <attribute id="Spells" type="LSString" value="Gunslinger_Countershot_Unlock;Target_ValkranaCorpseGrenade;Projectile_BadMoon" />
+          <attribute id="UUID" type="guid" value="5e3e1291-8a2e-4fff-b829-fe3d4e8835e2" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 5" />
+          <attribute id="Spells" type="LSString" value="Target_AnimateDead;Target_ValkranaImpartUndeath;Dirge_SpiritGuardians_Container" />
+          <attribute id="UUID" type="guid" value="6f1cf77d-6613-4a24-bc55-7787ac2043dc" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 6" />
+          <attribute id="Spells" type="LSString" value="Target_ValkranaSkeleport" />
+          <attribute id="UUID" type="guid" value="7a4a236c-96b7-4eed-98e0-21cf7aa88df3" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 7" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="976d0bee-52e6-4a01-a76e-4da4016b1a25" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 8" />
+          <attribute id="Spells" type="LSString" value="Target_DestroyUndead_Shot;Target_HealUndead_Shot" />
+          <attribute id="UUID" type="guid" value="a5ef9189-cc56-4f2f-b974-e252d19f562b" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 9" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="db23ed1d-1afd-48d4-8c03-7054d78b43da" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 10" />
+          <attribute id="Spells" type="LSString" value="Target_Resurrect_Shot" />
+          <attribute id="UUID" type="guid" value="ca17a71e-86b8-4e52-af0c-2ea7c42e3c72" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 11" />
+          <attribute id="Spells" type="LSString" value="Dethrone" />
+          <attribute id="UUID" type="guid" value="8942b2f6-53e6-494f-b395-fc275ae3c02a" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 12" />
+          <attribute id="Spells" type="LSString" value="Target_CreateUndead" />
+          <attribute id="UUID" type="guid" value="58b4fad4-2ef4-4c27-94b1-d5a545882746" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 1" />
+          <attribute id="Spells" type="LSString" value="Tet42_GrappleShot" />
+          <attribute id="UUID" type="guid" value="b0bce104-d272-494e-af4f-2f4e2c2bad35" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 2" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="f150f13a-fc19-46d2-925e-f0fe4f3712c2" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 3" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="4b4136d2-3d98-4e54-b31c-4f75723c9cf3" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 4" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="2fda55da-0d42-47e4-8ea0-5f84e36d617d" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 5" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="cfd3e7e9-cce8-405e-8f09-8b4b2d97e2d6" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 6" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="700240d1-6215-4fbb-a273-250dc8aa57fb" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 7" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="d244f45c-9827-48aa-9baf-f9157ad780a4" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 8" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="3f9a2c2d-9313-4166-bfae-8ec62a496f31" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 9" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="03cc4710-1a52-47c0-aab4-9808d40658ff" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 10" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="12078613-8bf0-4c5c-ae8c-6142fe134d10" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 11" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="6d725e31-e7c4-4890-945f-d40149b61f21" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 12" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="e0414fdb-35e9-4f17-b1e7-8c1e5228b7d9" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

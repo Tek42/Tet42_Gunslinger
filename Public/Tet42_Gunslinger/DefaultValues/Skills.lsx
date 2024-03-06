@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="330"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Athletics;Acrobatics;Survival;Perception;Initimidation;Investigation;Insight"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="547f2bc4-750f-417a-97b8-dbb24c53ee49"/>
+                    <attribute id="UUID" type="guid" value="0b8964fa-2b64-4072-94c7-357f31aad625"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

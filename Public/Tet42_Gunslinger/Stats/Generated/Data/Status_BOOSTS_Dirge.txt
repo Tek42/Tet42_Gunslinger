@@ -1,0 +1,9 @@
+// Abilities
+new entry "SWARM_RAT"
+	type "StatusData"
+		data "StatusType" "BOOST"
+		data "DisplayName" "h28d8bcfbg0eeag401egbca2g270a36290c63;1"
+		data "Description" "h5f6051e9g79a0g4a53g8464g93280199ae9e;1"
+		data "Icon" "statIcons_HandsOffPetal"
+		data "StackId" "SWARM_RAT"
+		data "StatusPropertyFlags" "LoseControlFriendly;LoseControl"

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Firearm" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h92837cf3c78d4226845c29d5e6b38905c5b4" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h31e73447166148419de457c6e1b272be3180" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="GS_FIREARM_MOD" />
+			<attribute id="UUID" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="CommanderStrike_Maneuver,GSDisarmingAttack,GSDistractingStrike,EvasiveFootwork,GSGoadingAttack,GSManeuveringAttack,GSMenacingAttack,PrecisionAttack,GWSPushingAttack,Rally,GSTripAttack" />
+                    <attribute id="UUID" type="guid" value="5f9f45d2-e41f-4d28-82c1-e62ad205833d" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>
