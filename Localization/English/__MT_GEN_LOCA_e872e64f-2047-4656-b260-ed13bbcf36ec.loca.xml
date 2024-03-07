@@ -114,11 +114,6 @@
 	<content contentuid="h5f6051e9g79a0g4a53g8464g93280199ae9e" version="1">Ok, it's just three necrotic graveyard rats. But they believe they are a swarm. Please support their choices.</content>
 	<content contentuid="ha95bdfc3f6fb4b98b8060945661a6d0975g0" version="1">Bad Moon Rising</content>
 	<content contentuid="h89369c2636f749da8ef79a87860528c05680" version="1">A beam of necrotic moonlight strikes the target and other nearby units. Leaves behind frozen ground.</content>
-    <!--GUNBREAKER-->
-    <content contentuid="hb3dff921676345129b100b351a822eb54c76" version="1">Gunbreaker</content>
-	<content contentuid="hcd446cb7a5b94612b33bd8d79e830da14d82" version="1">Gunbreaker Placeholder</content>
-	<content contentuid="h2ee1e6afe0e8423faa184bb4a3ea8ae9b4d2" version="1">Grapple Shot</content>
-    <content contentuid="h097e5d1720f24a38bc87d5170c40af73g6fa" version="1">An electrified tether fires from your gunblade which entangles your target, does [1] and pulls them toward you.</content>
     <content contentuid="h8b16e822fe15446e94991c950f2a0038abc1" version="1">Novice Dirge Revolver</content>
     <content contentuid="h8ed5a71e9ade4dc1bfe3e35b2349778bcdee" version="1">Advanced Dirge Revolver</content>
     <content contentuid="h6e3fe2e3066b47a48e85aae5eca2d31b88cc" version="1">Experienced Dirge Revolver</content>
@@ -126,4 +121,9 @@
     <content contentuid="h2fad8dd1fac3473f88cbcce5388d19d2gffe" version="1">Armament of Eld</content>
     <content contentuid="hbd6b090a5b2047e999e491543dedf11a513b" version="1">Armament of Eld</content>
     <content contentuid="h78c176bbe0df4210b013cf42b728aa0fda73" version="1">Expert Dirge Revolver</content>
+	<!--GUNBREAKER-->
+    <content contentuid="hb3dff921676345129b100b351a822eb54c76" version="1">Gunbreaker</content>
+	<content contentuid="hcd446cb7a5b94612b33bd8d79e830da14d82" version="1">The Gunbreaker is not yet ready to play. There are no abilities or progression available.</content>
+	<content contentuid="h2ee1e6afe0e8423faa184bb4a3ea8ae9b4d2" version="1">Grapple Shot</content>
+    <content contentuid="h097e5d1720f24a38bc87d5170c40af73g6fa" version="1">An electrified tether fires from your gunblade which entangles your target, does [1] and pulls them toward you.</content>
 </contentList>

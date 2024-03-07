@@ -53,7 +53,7 @@ add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 
 new equipment "EQP_CC_Tet42_Gunbreaker"
-add initialweaponset "Ranged"
+add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "Tet42_Gunbreaker_Longsword"
 add equipmentgroup
@@ -65,7 +65,7 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
-add equipment entry "ARM_Leather_Body"
+add equipment entry "ARM_ScaleMail_Body"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
