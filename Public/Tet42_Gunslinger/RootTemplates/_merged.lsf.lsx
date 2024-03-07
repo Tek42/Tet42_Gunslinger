@@ -1199,7 +1199,7 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="hd626ea3cga23fg4440ga97ag783fb1149cfd" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h8b16e822fe15446e94991c950f2a0038abc1" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h59664035g6932g441fg81f7g94b4f6f80239" version="1" />
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" />
@@ -1260,7 +1260,7 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="hd81a1e28g574cg42b5gabd0gd85f3bb2984f" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h8ed5a71e9ade4dc1bfe3e35b2349778bcdee" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h60b9cbcfgf43ag441ag8169g2e0341f0b796" version="1" />
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" />
@@ -1321,7 +1321,7 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="h719b8c30ga38bg4a69gb3eagf43aa9819257" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h6e3fe2e3066b47a48e85aae5eca2d31b88cc" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="he2775c69g494bg48dega642g39e3112ead9c" version="1" />
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" />
@@ -1382,7 +1382,7 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="h657d4a00544b482aacada2f38d26d444b83b" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb59f455166694bb59f3bd102cce9f41cd64g" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h429a6be98335474cb7ccc23dd6bd7323089c" version="1" />
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" />
@@ -1397,7 +1397,7 @@
 					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
 					<attribute id="Race" type="int8" value="0" />
 					<attribute id="ReadinessFlags" type="uint32" value="144" />
-					<attribute id="Stats" type="FixedString" value="Dirge_Colt_Army_Worn" />
+					<attribute id="Stats" type="FixedString" value="Dirge_Colt_Navy_Army_Mog_VR" />
 					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="4ce87113-fdc2-410e-8020-e2abe709ebd9" />
@@ -1443,7 +1443,7 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="h22dbf160563d41ac908e3351f6bdcd25d6e7" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2fad8dd1fac3473f88cbcce5388d19d2gffe" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h06d21706f0bb4f5693c9d73bc24eca3e856f" version="1" />
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" />
@@ -1458,7 +1458,7 @@
 					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
 					<attribute id="Race" type="int8" value="0" />
 					<attribute id="ReadinessFlags" type="uint32" value="144" />
-					<attribute id="Stats" type="FixedString" value="Dirge_Colt_Army" />
+					<attribute id="Stats" type="FixedString" value="Dirge_Colt_Navy_Army_Mog_L" />
 					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="4ce87113-fdc2-410e-8020-e2abe709ebd9" />
@@ -1505,7 +1505,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CanShootThrough" type="bool" value="True" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h22dbf160563d41ac908e3351f6bdcd25d6e7" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hbd6b090a5b2047e999e491543dedf11a513b" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h06d21706f0bb4f5693c9d73bc24eca3e856f" version="1" />
 					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" />
 					<attribute id="Flag" type="int32" value="0" />
@@ -1566,7 +1566,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CanShootThrough" type="bool" value="True" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h657d4a00544b482aacada2f38d26d444b83b" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h78c176bbe0df4210b013cf42b728aa0fda73" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h429a6be98335474cb7ccc23dd6bd7323089c" version="1" />
 					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" />
 					<attribute id="Flag" type="int32" value="0" />
@@ -1575,7 +1575,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
 					<attribute id="MapKey" type="FixedString" value="745f1280-e50d-4359-92fe-540960db6486" />
-					<attribute id="Name" type="LSString" value="Colt_Army_Worn" />
+					<attribute id="Name" type="LSString" value="Dirge_Colt_Army_Worn" />
 					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
 					<attribute id="Race" type="int8" value="0" />

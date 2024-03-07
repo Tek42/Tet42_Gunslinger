@@ -3,6 +3,7 @@
 	<!--GUNSLINGER COMMON-->
 	<content contentuid="h5f5694f5ab7b4b4495479ff1fa5b5073g601" version="1">Ka</content>
 	<content contentuid="h445c7b751ed9480c94683727af45de2b5e0d" version="1">A resource used by Gunslingers to fuel special abilities.</content>
+	<content contentuid="h242d43434175481d829aee14f166ce4c5311" version="1">Weenie</content>
 	<content contentuid="h5c09a7b8590e4b77be13e70cbddc37708b55" version="1">Off-hand Ammo</content>
 	<content contentuid="h4746588c88f243c9a3bd007ed9c7ab4b2b41" version="1">Main-hand Ammo</content>
 	<content contentuid="hd876369f6b054d339947d48af02a03472a36" version="1">Number of Shots remaining before you need to reload your main firearm.</content>
@@ -16,13 +17,11 @@
 	<content contentuid="h56eef872g0bcag4236g9595g9191910abdba" version="1">Gunslinger Protection</content>
 	<content contentuid="he027d168f8cf4ef5b7d46269fee0014577ed" version="1">Gunslinger Countershot</content>
 	<content contentuid="hbd0e6d32bd3b481dacc3da8d644bf5d78694" version="1">Counters the spell being cast and deafens the target for 2 turns.</content>
-	<content contentuid="h6051fbddg4d6bg44f9g852eg765b7b345861" version="1">Ranged shot that targets enemies who harm your Ka-Tet.</content>
+	<content contentuid="h6051fbddg4d6bg44f9g852eg765b7b345861" version="1">Ranged shot that targets enemies who harm your companions.</content>
 	<content contentuid="h86fc7417gba24g43e9gac8eg8c8ec44c3f83" version="1">Gunslinger Attack of Opportunity</content>
 	<content contentuid="h8783b69cge6fag434dgb326gbdbe95238b03" version="1">You should never try to flee from a Gunslinger</content>
 	<content contentuid="hee7a5e51gd4d5g4448g9081g37119fe6dcbd" version="1">Fan the Hammer</content>
 	<content contentuid="hf672c3daga422g486bg9719gbfb29673e00e" version="1">Rapidly fire 6 shots.</content>
-	<content contentuid="hd5031d9dg2422g42f4g9c88g344ce79c8556" version="1">Fan the Hammer Offhand</content>
-	<content contentuid="h8890e3b0g4aa1g4ba9g8701g20a25dd6c82a" version="1">Rapidly fire 6 shots.</content>
 	<content contentuid="h521dc077g1ad7g4f2ag8ca1gb571bc3a96e6" version="1">Bullet to the Thigh</content>
 	<content contentuid="h65539074gd821g40f9gaeaag0f69c7610ad5" version="1">The target's movement is slowed.</content>
 	<content contentuid="hb74bec0eg184fg46c4g844eg9da9d12cd629" version="1">Main-Hand Firearm Attack</content>
@@ -30,7 +29,6 @@
 	<content contentuid="h2fbaf9bfg9946g4710g9bb3g9225fd6a2dd0" version="1">Main-Hand Firearm Attack</content>
 	<content contentuid="h122959d7g921bg4a66gbdfdg316e37189afb" version="1">Off-Hand Firearm Attack</content>
 	<content contentuid="h79b602f1g0057g482ega597g3872fe21ed1a" version="1">Dual Wield Firearm Attack</content>
-	<content contentuid="h8c0c1fefg8c2fg443cg8bc3gb07926d661b1" version="1">Basic Firearm Maintenance Kit</content>
 	<content contentuid="hbe77f7719bc044c3bd4f1e394a601c469512" version="1">Deafened</content>
 	<content contentuid="hba31d85d71df40359b39fa17da7709fa4435" version="1">The target is deafened, stopping spellcasting that requires verbal components.</content>
 	<content contentuid="h30a6a1de49ff4c5c906c6d9f31af1dc3cgec" version="1">Main Hand Reload</content>
@@ -44,7 +42,6 @@
 	<content contentuid="h95536af43b204f4b8e3b2849a8cf053c9893" version="1">The target is banished for 2 turns.</content>
 	<content contentuid="h9c275d8fc2d543fbbc24cc562e8cc292399a" version="1">Gunslinger: Point-Blank</content>
 	<content contentuid="hdd9b611882154f0ebabcee061e5d7efa6b62" version="1">When you make ranged weapon attacks within melee range, the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; do not have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
-	<content contentuid="hdd9b611882154f0ebabcee061e5d7efa6b62" version="1">When you make ranged weapon attacks within melee range, the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; do not have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
 	<content contentuid="h412fb35c01f6465183f83993db61d5837ba4" version="1">Gunslinger: Evasion</content>
 	<content contentuid="h359bdb7e78e043a59b8e18d68ef10a915c1g" version="1">You can evade attacks by imposing &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on melee attacks against you for a round.</content>
 	<content contentuid="he6c59ef1952c45bebcbce1c6c0fb165836ee" version="1">Gunslinger's Resolve</content>
@@ -54,6 +51,8 @@
 	<content contentuid="hb346d8006f2f4ec6ae04929d83dbcb472b06" version="1">Gun Transmogger</content>
 	<content contentuid="h0f757503f7fd4d5ea01779729b380f5bc3d4" version="1">Switches between the Colt Navy and Army models.</content>
 	<!--GUNSLINGER-->
+	<content contentuid="h3490d25db6dc497d9409d426be30a134d94f" version="1">Gunslinger</content>
+	<content contentuid="hb22b8030a91c433eb55869b160b7dad90cc3" version="1">Descended from the Knightly order of Arthur Eld, these warriors defend all that is good.&lt;br&gt;&lt;br&gt;The Gunslinger Litany&lt;br&gt;I do not aim with my hand.&lt;br&gt;He who aims with his hand has forgotten the face of his father.&lt;br&gt;I aim with my eye.&lt;br&gt;I do not shoot with my hand.&lt;br&gt;He who shoots with his hand has forgotten the face of his father.&lt;br&gt;I shoot with my mind.&lt;br&gt;I do not kill with my gun.&lt;br&gt;He who kills with his gun has forgotten the face of his father.&lt;br&gt;I kill with my heart.</content>
 	<content contentuid="h1eef2609gbf52g4051g8b17gfc354e7dc6bf" version="1">Aim With My Eye</content>
 	<content contentuid="hee30a52bg9e20g4ed7gab51gf6497f242738" version="1">A precise shot that causes weapon damage and slows your target.</content>
 	<content contentuid="h428a636dg77eag4405g85feg110894e93126" version="1">Shoot With My Mind</content>
@@ -63,18 +62,16 @@
 	<content contentuid="hfbda6582g052ag4eb9g8781g452b7a906cc7" version="1">Gunslinger Focus</content>
 	<content contentuid="h42c973b9gd603g49a6ga6c2gaacabbb5cc88" version="1">You take a moment to center yourself. You have +1 to attack and damage rolls, and have advantage on all attacks for 2 turns.</content>
 	<content contentuid="hdec95630g4d59g425ag906dg4fed1ea4484e" version="1">Inspiring Palaver</content>
-	<content contentuid="h6ee38de2g7d5eg410fg8915g5a80061a3c0a" version="1">You inspire with your words, giving yourself and your Ka-Tet advantage for the next 2 turns.</content>
+	<content contentuid="h6ee38de2g7d5eg410fg8915g5a80061a3c0a" version="1">You inspire with your words, giving yourself and your companions advantage for the next 2 turns.</content>
 	<content contentuid="hddc74348g534ag4604g8a1dg27426ba2d7f4" version="1">Aura of the Gunslinger</content>
-	<content contentuid="ha584bfc5g1c1eg4d4fgbd4fg18bee32b72df" version="1">You radiate an aura the inspires your Ka-Tet. Enemies have Disadvantage on Opportunity Attacks against you and your Ka-Tet, and the number needed to roll a Critical Hit is reduced by 1.</content>
-	<content contentuid="h3490d25db6dc497d9409d426be30a134d94f" version="1">Gunslinger</content>
-	<content contentuid="h3490d25db6dc497d9409d426be30a134d94f" version="1">Gunslinger</content>
-	<content contentuid="hb22b8030a91c433eb55869b160b7dad90cc3" version="1">Descended from the Knightly order of Arthur Eld, these warriors defend all that is good.&lt;br&gt;&lt;br&gt;The Gunslinger Litany&lt;br&gt;I do not aim with my hand.&lt;br&gt;He who aims with his hand has forgotten the face of his father.&lt;br&gt;I aim with my eye.&lt;br&gt;I do not shoot with my hand.&lt;br&gt;He who shoots with his hand has forgotten the face of his father.&lt;br&gt;I shoot with my mind.&lt;br&gt;I do not kill with my gun.&lt;br&gt;He who kills with his gun has forgotten the face of his father.&lt;br&gt;I kill with my heart.</content>
+	<content contentuid="ha584bfc5g1c1eg4d4fgbd4fg18bee32b72df" version="1">You radiate an aura the inspires your companions. Enemies have Disadvantage on Opportunity Attacks against you and your companions, and the number needed to roll a Critical Hit is reduced by 1.</content>
 	<content contentuid="h04458b8dg4508g4c49ga667g450e382cc43d" version="1">Gunslinger Smite: Ranged</content>
 	<content contentuid="hcf5827fcg96d9g409fg84f5ge208ba363fb9" version="1">Gunslinger Smite Critical: Ranged</content>
 	<content contentuid="h0722bf5eg7b4eg4908g82cega9119178c16d" version="1">Your weapon deals an additional [1], increased by [2] when attacking fiends or undead.</content>
 	<content contentuid="h76f6ce90g1c50g47bcg94aeg58088544d88c" version="1">Gunslinger Smite: Reaction</content>
 	<content contentuid="hf7bb24f8g80d6g4a2bg958egd78daf7aeb8b" version="1">Gunslinger Smite Critical: Reaction</content>
 	<content contentuid="hd06e672dg93edg42b4g83f5gf0a84008f274" version="1">Deals an additional [1] per level.</content>
+	<content contentuid="h8c0c1fefg8c2fg443cg8bc3gb07926d661b1" version="1">Basic Firearm Maintenance Kit</content>
 	<content contentuid="ha6bfa880gfd81g446aga185g397c76cdd255" version="1">Contains a basic quality set of tools that includes a cleaning rod, brushes, a cleaning swab, oils, and rags to keep your firearm in working order.</content>
 	<content contentuid="ha402d69a04d846808c4550690e02dd8e154d" version="1">Advanced Firearm Maintenance Kit</content>
 	<content contentuid="h66f6326cg7871g4a2dg8ac2g9f4fa46f1e81" version="1">Contains a high quality set of tools that includes a cleaning rod, jags, patches, brushes, chemicals, a cleaning swab, oils, and rags to keep your firearm in excellent working order.</content>
@@ -96,7 +93,6 @@
 	<content contentuid="h6d3327fab9f547acb0f41a54544bea85b658" version="1">Your bullet fires forward in a [1] long line. Each creature in that line must make a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or take weapon damage plus an extra [2] piercing damage.</content>
 	<content contentuid="h58938a89858444bc9f3783c1284ca8eba40d" version="1">Trick Shot</content>
 	<content contentuid="h11740c524cfe43709ddbde0bbfb7b030d36d" version="1">Fire [1] shots at targets of your choice. Dealing weapon damage to each target.</content>
-	<content contentuid="h3a4dd7ba9a5f4f9a8ea09af936585e46e5dd" version="1">Gunslinger</content>
 	<!--DIRGE-->
 	<content contentuid="ha8e79010b9d141e3a83633e4626645f32b1d" version="1">Basic Dirge Firearm Maintenance Kit</content>
     <content contentuid="hf4e6ec4f4ace456eb70a3b02e4cc0af42cf0" version="1">Advanced Dirge Firearm Maintenance Kit</content>
@@ -118,9 +114,16 @@
 	<content contentuid="h5f6051e9g79a0g4a53g8464g93280199ae9e" version="1">Ok, it's just three necrotic graveyard rats. But they believe they are a swarm. Please support their choices.</content>
 	<content contentuid="ha95bdfc3f6fb4b98b8060945661a6d0975g0" version="1">Bad Moon Rising</content>
 	<content contentuid="h89369c2636f749da8ef79a87860528c05680" version="1">A beam of necrotic moonlight strikes the target and other nearby units. Leaves behind frozen ground.</content>
-   <!--GUNBREAKER-->
+    <!--GUNBREAKER-->
     <content contentuid="hb3dff921676345129b100b351a822eb54c76" version="1">Gunbreaker</content>
 	<content contentuid="hcd446cb7a5b94612b33bd8d79e830da14d82" version="1">Gunbreaker Placeholder</content>
 	<content contentuid="h2ee1e6afe0e8423faa184bb4a3ea8ae9b4d2" version="1">Grapple Shot</content>
     <content contentuid="h097e5d1720f24a38bc87d5170c40af73g6fa" version="1">An electrified tether fires from your gunblade which entangles your target, does [1] and pulls them toward you.</content>
+    <content contentuid="h8b16e822fe15446e94991c950f2a0038abc1" version="1">Novice Dirge Revolver</content>
+    <content contentuid="h8ed5a71e9ade4dc1bfe3e35b2349778bcdee" version="1">Advanced Dirge Revolver</content>
+    <content contentuid="h6e3fe2e3066b47a48e85aae5eca2d31b88cc" version="1">Experienced Dirge Revolver</content>
+    <content contentuid="hb59f455166694bb59f3bd102cce9f41cd64g" version="1">Expert Dirge Revolver</content>
+    <content contentuid="h2fad8dd1fac3473f88cbcce5388d19d2gffe" version="1">Armament of Eld</content>
+    <content contentuid="hbd6b090a5b2047e999e491543dedf11a513b" version="1">Armament of Eld</content>
+    <content contentuid="h78c176bbe0df4210b013cf42b728aa0fda73" version="1">Expert Dirge Revolver</content>
 </contentList>

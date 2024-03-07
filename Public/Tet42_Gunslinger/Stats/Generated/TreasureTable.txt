@@ -1,16 +1,3 @@
-new treasuretable "TUT_Chest_Potions"
-CanMerge 1
-new subtable "1,1"
-object category "I_Tet42_Gunbreaker_Longsword",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_Tet42_Gunbreaker_Longsword_1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_Tet42_Gunbreaker_Longsword_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_Tet42_Gunbreaker_Longsword_3",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_Tet42_Gunbreaker_Longsword_L",1,0,0,0,0,0,0,0
-
 new treasuretable "PLA_ZhentarimTrader_Common"
 CanMerge 1
 new subtable "1,1"
