@@ -10,7 +10,7 @@
                     <attribute id="Name" type="LSString" value="Gunslinger" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="Boosts" type="LSString" value="EOC_RELOAD_MONITOR;ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Charisma);Proficiency(SimpleWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);ActionResource(Ka,2,0)" />
-                    <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSkills(675236ba-c3cc-44ec-a58b-0e46351c85bd,2)" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(edd2982d-d596-4290-be69-3733c7310828,,,,AlwaysPrepared);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSkills(675236ba-c3cc-44ec-a58b-0e46351c85bd,2)" />
                     <attribute id="PassivesAdded" type="LSString" value="Gunslinger_PointBlank;Gunslinger_Proficiencies;Gunslinger_PassiveBonus" />
                     <attribute id="TableUUID" type="guid" value="547f2bc4-750f-417a-97b8-dbb24c53ee49" />
                     <attribute id="UUID" type="guid" value="da437b0a-4df3-4627-abc3-1d6f142c6209" />
