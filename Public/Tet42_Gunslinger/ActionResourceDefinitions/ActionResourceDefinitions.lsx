@@ -6,10 +6,10 @@
       <children>
         <node id="ActionResourceDefinition">
           <attribute id="Description" type="TranslatedString" handle="hd876369f6b054d339947d48af02a03472a36" version="1" />
-          <attribute id="DisplayName" type="TranslatedString" handle="h4746588c88f243c9a3bd007ed9c7ab4b2b41" version="1" /> 
-          <attribute id="IsSpellResource" type="bool" value="false" /> 
+          <attribute id="DisplayName" type="TranslatedString" handle="h4746588c88f243c9a3bd007ed9c7ab4b2b41" version="1" />
+          <attribute id="IsSpellResource" type="bool" value="false" />
           <attribute id="MaxLevel" type="uint32" value="0" />
-          <attribute id="DiceType" type="uint32" value="0" /> 
+          <attribute id="DiceType" type="uint32" value="0" />
           <attribute id="MaxValue" type="uint32" value="6" />
           <attribute id="Name" type="FixedString" value="GSAmmo" />
           <attribute id="PartyActionResource" type="bool" value="false" />
@@ -17,13 +17,13 @@
           <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
           <attribute id="UUID" type="guid" value="22353d94-d633-4adf-b813-9e0779ce5015" />
           <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
-          </node>
+        </node>
         <node id="ActionResourceDefinition">
           <attribute id="Description" type="TranslatedString" handle="h167f89f3814e44ee9d1d3dc12e9f4a80364c" version="1" />
-          <attribute id="DisplayName" type="TranslatedString" handle="h5c09a7b8590e4b77be13e70cbddc37708b55" version="1" /> 
-          <attribute id="IsSpellResource" type="bool" value="false" /> 
+          <attribute id="DisplayName" type="TranslatedString" handle="h5c09a7b8590e4b77be13e70cbddc37708b55" version="1" />
+          <attribute id="IsSpellResource" type="bool" value="false" />
           <attribute id="MaxLevel" type="uint32" value="0" />
-          <attribute id="DiceType" type="uint32" value="0" /> 
+          <attribute id="DiceType" type="uint32" value="0" />
           <attribute id="MaxValue" type="uint32" value="6" />
           <attribute id="Name" type="FixedString" value="GSAmmoOffhand" />
           <attribute id="PartyActionResource" type="bool" value="false" />
@@ -47,34 +47,34 @@
           <attribute id="UUID" type="guid" value="5cce295a-2380-405e-95cc-02a17f37faed" />
           <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
         </node>
-                <node id="ActionResourceDefinition">
-                    <attribute id="Description" type="TranslatedString" handle="h0803bdbbg07c7g4fccg916ag4a403927e4fd" version="1" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="h10b98ceagb71ag4fc3g9a2dgb15a5ca0b34d" version="1" /> 
-                    <attribute id="Error" type="TranslatedString" handle="h5f6353f6gd9bag4ae1gbf50g469f3dc2da51" version="1" />
-                    <attribute id="IsSpellResource" type="bool" value="false" /> 
-                    <attribute id="MaxLevel" type="uint32" value="0" />
-                    <attribute id="DiceType" type="uint32" value="0" /> 
-                    <attribute id="Name" type="FixedString" value="Tet42_Gunbreaker_Ammo_Mainhand" />
-                    <attribute id="PartyActionResource" type="bool" value="false" />
-                    <attribute id="ReplenishType" type="FixedString" value="ShortRest" />
-                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
-                    <attribute id="UUID" type="guid" value="f5b64452-4ac3-493a-a506-f245b6c1bb49" />
-                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
-                </node>
         <node id="ActionResourceDefinition">
-                    <attribute id="Description" type="TranslatedString" handle="h0803bdbbg07c7g4fccg916ag4a403927e4fd" version="1" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="h1587625dgca1cg4a04g8b5cgbe75a5c73797" version="1" /> 
-                    <attribute id="Error" type="TranslatedString" handle="h5f6353f6gd9bag4ae1gbf50g469f3dc2da51" version="1" />
-                    <attribute id="IsSpellResource" type="bool" value="false" /> 
-                    <attribute id="MaxLevel" type="uint32" value="0" />
-                    <attribute id="DiceType" type="uint32" value="0" /> 
-                    <attribute id="Name" type="FixedString" value="Tet42_Gunbreaker_Ammo_Offhand" />
-                    <attribute id="PartyActionResource" type="bool" value="false" />
-                    <attribute id="ReplenishType" type="FixedString" value="ShortRest" />
-                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
-                    <attribute id="UUID" type="guid" value="07f2e534-8d74-4f45-ade9-f65a97e80e75" />
-                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
-                </node>
+          <attribute id="Description" type="TranslatedString" handle="h0803bdbbg07c7g4fccg916ag4a403927e4fd" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h10b98ceagb71ag4fc3g9a2dgb15a5ca0b34d" version="1" />
+          <attribute id="Error" type="TranslatedString" handle="h5f6353f6gd9bag4ae1gbf50g469f3dc2da51" version="1" />
+          <attribute id="IsSpellResource" type="bool" value="false" />
+          <attribute id="MaxLevel" type="uint32" value="0" />
+          <attribute id="DiceType" type="uint32" value="0" />
+          <attribute id="Name" type="FixedString" value="Tet42_Gunbreaker_Ammo_Mainhand" />
+          <attribute id="PartyActionResource" type="bool" value="false" />
+          <attribute id="ReplenishType" type="FixedString" value="ShortRest" />
+          <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+          <attribute id="UUID" type="guid" value="f5b64452-4ac3-493a-a506-f245b6c1bb49" />
+          <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
+        </node>
+        <node id="ActionResourceDefinition">
+          <attribute id="Description" type="TranslatedString" handle="h0803bdbbg07c7g4fccg916ag4a403927e4fd" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h1587625dgca1cg4a04g8b5cgbe75a5c73797" version="1" />
+          <attribute id="Error" type="TranslatedString" handle="h5f6353f6gd9bag4ae1gbf50g469f3dc2da51" version="1" />
+          <attribute id="IsSpellResource" type="bool" value="false" />
+          <attribute id="MaxLevel" type="uint32" value="0" />
+          <attribute id="DiceType" type="uint32" value="0" />
+          <attribute id="Name" type="FixedString" value="Tet42_Gunbreaker_Ammo_Offhand" />
+          <attribute id="PartyActionResource" type="bool" value="false" />
+          <attribute id="ReplenishType" type="FixedString" value="ShortRest" />
+          <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+          <attribute id="UUID" type="guid" value="07f2e534-8d74-4f45-ade9-f65a97e80e75" />
+          <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
+        </node>
       </children>
     </node>
   </region>
