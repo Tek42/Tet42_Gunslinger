@@ -176,7 +176,7 @@
 					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
 					<attribute id="Race" type="int8" value="0" />
 					<attribute id="ReadinessFlags" type="uint32" value="144" />
-					<attribute id="Stats" type="FixedString" value="GS_Colt_Navy_Clean" />
+					<attribute id="Stats" type="FixedString" value="GS_Colt_Navy_Clean_2" />
 					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="4ce87113-fdc2-410e-8020-e2abe709ebd9" />
@@ -1331,7 +1331,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
 					<attribute id="MapKey" type="FixedString" value="60d71588-16d4-413a-932f-7e35b399cf1d" />
-					<attribute id="Name" type="LSString" value="Dirge_Colt_Navy_Clean_2" />
+					<attribute id="Name" type="LSString" value="Dirge_Colt_Navy_Clean" />
 					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
 					<attribute id="Race" type="int8" value="0" />
