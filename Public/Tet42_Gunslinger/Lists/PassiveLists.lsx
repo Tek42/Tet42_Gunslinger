@@ -5,9 +5,17 @@
     <node id="root">
       <children>
         <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="CommanderStrike_Maneuver,GSDisarmingAttack,GSDistractingStrike,EvasiveFootwork,GSGoadingAttack,GSManeuveringAttack,GSMenacingAttack,PrecisionAttack,GWSPushingAttack,Rally,GSTripAttack" />
-                    <attribute id="UUID" type="guid" value="5f9f45d2-e41f-4d28-82c1-e62ad205833d" />
-                </node>
+          <attribute id="Passives" type="LSString" value="CommanderStrike_Maneuver,GSDisarmingAttack,GSDistractingStrike,EvasiveFootwork,GSGoadingAttack,GSManeuveringAttack,GSMenacingAttack,PrecisionAttack,GWSPushingAttack,Rally,GSTripAttack" />
+          <attribute id="UUID" type="guid" value="5f9f45d2-e41f-4d28-82c1-e62ad205833d" />
+        </node>
+        <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_TwoWeaponFighting,FightingStyle_Protection"/>
+          <attribute id="UUID" type="guid" value="971fb5a0-f8c3-417a-9fb8-c22dac41851f"/>
+        </node>
+        <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="ColossusSlayer,GiantKiller,GBHordeBreaker"/>
+          <attribute id="UUID" type="guid" value="f64e253b-1eb3-47b9-8c70-e69c9b849725"/>
+        </node>
       </children>
     </node>
   </region>

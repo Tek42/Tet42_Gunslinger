@@ -9,7 +9,7 @@
                     <attribute id="AllowImprovement" type="bool" value="false" />
                     <attribute id="Name" type="LSString" value="Gunslinger" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
-                    <attribute id="Boosts" type="LSString" value="EOC_RELOAD_MONITOR;ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Charisma);Proficiency(SimpleWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);ActionResource(Ka,2,0)" />
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Charisma);Proficiency(SimpleWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);ActionResource(Ka,2,0)" />
                     <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSkills(675236ba-c3cc-44ec-a58b-0e46351c85bd,2)" />
                     <attribute id="PassivesAdded" type="LSString" value="Gunslinger_PointBlank;Gunslinger_Proficiencies;Gunslinger_PassiveBonus" />
                     <attribute id="TableUUID" type="guid" value="547f2bc4-750f-417a-97b8-dbb24c53ee49" />
@@ -36,7 +36,7 @@
                     <attribute id="Name" type="LSString" value="Gunslinger" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="IsMulticlass" type="bool" value="true" />
-                    <attribute id="Boosts" type="LSString" value="EOC_RELOAD_MONITOR;ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Charisma);Proficiency(LightArmor);Proficiency(SimpleWeapons);Proficiency(MediumArmor);ActionResource(Ka,2,0)" />
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Charisma);Proficiency(LightArmor);Proficiency(SimpleWeapons);Proficiency(MediumArmor);ActionResource(Ka,2,0)" />
                     <attribute id="Selectors" type="LSString" value="" />
                     <attribute id="PassivesAdded" type="LSString" value="Gunslinger_PointBlank;Gunslinger_Proficiencies;Gunslinger_PassiveBonus" />
                     <attribute id="TableUUID" type="guid" value="547f2bc4-750f-417a-97b8-dbb24c53ee49" />
@@ -276,7 +276,7 @@
                     <attribute id="Name" type="LSString" value="GunslingerEld" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="AddSpells(221ad8c3-c1d7-44fa-8b5a-977c0f1c8491,,,,AlwaysPrepared)" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(9e32fc2b-ce4f-47aa-b113-25cbdc025123);AddSpells(221ad8c3-c1d7-44fa-8b5a-977c0f1c8491,,,,AlwaysPrepared)" />
                     <attribute id="TableUUID" type="guid" value="a2878ad6-e0fd-47aa-acab-cf8515121097" />
                     <attribute id="UUID" type="guid" value="25e7571b-267b-4159-86fd-bc233160b651" />
                 </node>
@@ -477,9 +477,9 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)" />
                     <attribute id="Level" type="uint8" value="2" />
                     <attribute id="Name" type="LSString" value="DarkGunslinger" />
-                    <attribute id="PassivesAdded" type="LSString" value="JackOfAllTrades;FightingStyle_Gunslinger" />
+                    <attribute id="PassivesAdded" type="LSString" value="JackOfAllTrades" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="Selectors" type="LSString" value="AddSpells(77b46e2f-8b80-4eac-9d57-9726ebf8fe4d,,,,AlwaysPrepared);SelectSpells(dcb45167-86bd-4297-9b9d-c295be51af5b,1,1,BardSpells);AddSpells(80225e21-5acd-4122-b779-488dae33a31c)" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(edd2982d-d596-4290-be69-3733c7310828);AddSpells(77b46e2f-8b80-4eac-9d57-9726ebf8fe4d,,,,AlwaysPrepared);SelectSpells(dcb45167-86bd-4297-9b9d-c295be51af5b,1,1,BardSpells);AddSpells(80225e21-5acd-4122-b779-488dae33a31c)" />
                     <attribute id="TableUUID" type="guid" value="0b1dd918-6c47-4e9a-a679-dd959e8574da" />
                     <attribute id="UUID" type="guid" value="00d7aadf-8443-40df-a13d-dfb3475dc307" />
                 </node>
@@ -489,7 +489,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2)" />
                     <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel2" />
-                    <attribute id="Selectors" type="LSString" value="kSelectSpells(7ea8f476-97a1-4256-8f10-afa76a845cce,1,1,BardSpells);SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,2)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(7ea8f476-97a1-4256-8f10-afa76a845cce,1,1,BardSpells);SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,2)" />
                     <attribute id="TableUUID" type="guid" value="0b1dd918-6c47-4e9a-a679-dd959e8574da" />
                     <attribute id="UUID" type="guid" value="932f2715-4112-466d-af21-8d3f6e6ba49e" />
                 </node>
@@ -497,7 +497,7 @@
                     <attribute id="Level" type="uint8" value="4" />
                     <attribute id="Name" type="LSString" value="DarkGunslinger" />
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)" />
-                    <attribute id="PassivesAdded" type="LSString" value="GrimHarvest;ReloadTrick" />
+                    <attribute id="PassivesAdded" type="LSString" value="GrimHarvest" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(5e3e1291-8a2e-4fff-b829-fe3d4e8835e2,,,,AlwaysPrepared);SelectSpells(61f79a30-2cac-4a7a-b5fe-50c89d307dd6,1,0,BardCantrip,,,AlwaysPrepared);SelectSpells(7ea8f476-97a1-4256-8f10-afa76a845cce,1,1,BardSpells)" />
                     <attribute id="TableUUID" type="guid" value="0b1dd918-6c47-4e9a-a679-dd959e8574da" />
@@ -508,7 +508,7 @@
                     <attribute id="Name" type="LSString" value="DarkGunslinger" />
                     <attribute id="Boosts" type="LSString" value="ActionResource(BardicInspiration,1,0);ActionResource(SpellSlot,2,3)" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="PassivesRemoved" type="LSString" value="GS_Trickshot_3_4" />
+                    <attribute id="PassivesRemoved" type="LSString" value="" />
                     <attribute id="PassivesAdded" type="LSString" value="DarkGunslinger_Necrotic_Adept;FontOfInspiration;BardicInspiration_d8;UnlockedSpellSlotLevel3" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(6f1cf77d-6613-4a24-bc55-7787ac2043dc,,,,AlwaysPrepared);SelectSpells(c213ca01-3767-457b-a5c8-fd4c1dd656e2,1,1,BardSpells)" />
                     <attribute id="TableUUID" type="guid" value="0b1dd918-6c47-4e9a-a679-dd959e8574da" />
@@ -668,11 +668,11 @@
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="1" />
-                    <attribute id="Boosts" type="LSString" value="Proficiency(Longsword);Proficiency(HeavyArmor);Proficiency(SavingThrow,Constitution);Proficiency(Shields)" />
+                    <attribute id="Boosts" type="LSString" value="Proficiency(Longswords);Proficiency(MartialWeapons);Proficiency(HeavyArmor);Proficiency(SavingThrow,Constitution);Proficiency(SavingThrow,Strength);Proficiency(Shields)" />
                     <attribute id="Name" type="LSString" value="Gunbreaker" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="AddSpells(b0bce104-d272-494e-af4f-2f4e2c2bad35,,,,AlwaysPrepared)" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(9e32fc2b-ce4f-47aa-b113-25cbdc025123);AddSpells(b0bce104-d272-494e-af4f-2f4e2c2bad35,,,,AlwaysPrepared);SelectPassives(971fb5a0-f8c3-417a-9fb8-c22dac41851f,1,FightingStyle)" />
                     <attribute id="TableUUID" type="guid" value="5aa3fda7-9efa-44e7-bbf4-b206f6bc98a5" />
                     <attribute id="UUID" type="guid" value="41b6b24d-b17a-4227-a960-eb5172486feb" />
                 </node>
@@ -682,7 +682,7 @@
                     <attribute id="Name" type="LSString" value="Gunbreaker" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(964e765d-5881-463e-b1b0-4fc6b8035aa8);AddSpells(f150f13a-fc19-46d2-925e-f0fe4f3712c2,,,,AlwaysPrepared)" />
                     <attribute id="TableUUID" type="guid" value="5aa3fda7-9efa-44e7-bbf4-b206f6bc98a5" />
                     <attribute id="UUID" type="guid" value="94d773d7-1ae4-4fd8-9866-cb8fddff905d" />
                 </node>
@@ -691,8 +691,8 @@
                     <attribute id="Boosts" type="LSString" value="" />
                     <attribute id="Name" type="LSString" value="Gunbreaker" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="Selectors" type="LSString" value="" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(4b4136d2-3d98-4e54-b31c-4f75723c9cf3,,,,AlwaysPrepared)" />
+                    <attribute id="PassivesAdded" type="LSString" value="ImprovedCritical" />
                     <attribute id="TableUUID" type="guid" value="5aa3fda7-9efa-44e7-bbf4-b206f6bc98a5" />
                     <attribute id="UUID" type="guid" value="1bb4f197-f374-4955-9dfb-fd3be08a28ed" />
                 </node>
@@ -702,7 +702,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Boosts" type="LSString" value="" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(2fda55da-0d42-47e4-8ea0-5f84e36d617d,,,,AlwaysPrepared)" />
                     <attribute id="TableUUID" type="guid" value="5aa3fda7-9efa-44e7-bbf4-b206f6bc98a5" />
                     <attribute id="UUID" type="guid" value="ab3eb9d5-81d8-47a0-acf0-aac83a8982d0" />
                 </node>
@@ -711,18 +711,19 @@
                     <attribute id="Boosts" type="LSString" value="" />
                     <attribute id="Name" type="LSString" value="Gunbreaker" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="ExtraAttack" />
                     <attribute id="PassivesRemoved" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(f64e253b-1eb3-47b9-8c70-e69c9b849725,1,GBPrey);AddSpells(cfd3e7e9-cce8-405e-8f09-8b4b2d97e2d6,,,,AlwaysPrepared)" />
                     <attribute id="TableUUID" type="guid" value="5aa3fda7-9efa-44e7-bbf4-b206f6bc98a5" />
                     <attribute id="UUID" type="guid" value="666d1449-1296-4e9b-9f00-e6b3f9fdc18c" />
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="6" />
+                    <attribute id="AllowImprovement" type="bool" value="true" />
                     <attribute id="Name" type="LSString" value="Gunbreaker" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(700240d1-6215-4fbb-a273-250dc8aa57fb,,,,AlwaysPrepared)" />
                     <attribute id="TableUUID" type="guid" value="5aa3fda7-9efa-44e7-bbf4-b206f6bc98a5" />
                     <attribute id="UUID" type="guid" value="843ff337-de56-4350-8379-e416718ebe20" />
                 </node>
@@ -731,9 +732,9 @@
                     <attribute id="Boosts" type="LSString" value="" />
                     <attribute id="Name" type="LSString" value="Gunbreaker" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="RemarkableAthlete_Proficiency;RemarkableAthlete_Jump" />
                     <attribute id="PassivesRemoved" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d244f45c-9827-48aa-9baf-f9157ad780a4,,,,AlwaysPrepared)" />
                     <attribute id="TableUUID" type="guid" value="5aa3fda7-9efa-44e7-bbf4-b206f6bc98a5" />
                     <attribute id="UUID" type="guid" value="3f32151b-fac3-4724-8841-9458346882d2" />
                 </node>
@@ -742,7 +743,7 @@
                     <attribute id="Name" type="LSString" value="Gunbreaker" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(3f9a2c2d-9313-4166-bfae-8ec62a496f31,,,,AlwaysPrepared)" />
                     <attribute id="TableUUID" type="guid" value="5aa3fda7-9efa-44e7-bbf4-b206f6bc98a5" />
                     <attribute id="UUID" type="guid" value="505ae716-a49d-492b-91be-f32e94b717a3" />
                 </node>
@@ -751,7 +752,7 @@
                     <attribute id="Boosts" type="LSString" value="" />
                     <attribute id="Name" type="LSString" value="Gunbreaker" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="Indomitable" />
                     <attribute id="PassivesRemoved" type="LSString" value="" />
                     <attribute id="Selectors" type="LSString" value="" />
                     <attribute id="TableUUID" type="guid" value="5aa3fda7-9efa-44e7-bbf4-b206f6bc98a5" />
@@ -763,7 +764,7 @@
                     <attribute id="Name" type="LSString" value="Gunbreaker" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(971fb5a0-f8c3-417a-9fb8-c22dac41851f,1,FightingStyle)" />
                     <attribute id="TableUUID" type="guid" value="5aa3fda7-9efa-44e7-bbf4-b206f6bc98a5" />
                     <attribute id="UUID" type="guid" value="df2ff1db-48ae-4ab5-9e5f-6dc0f5fe3671" />
                 </node>
@@ -772,8 +773,8 @@
                     <attribute id="Boosts" type="LSString" value="" />
                     <attribute id="Name" type="LSString" value="Gunbreaker" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
-                    <attribute id="PassivesRemoved" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="ExtraAttack_2" />
+                    <attribute id="PassivesRemoved" type="LSString" value="ExtraAttack" />
                     <attribute id="Selectors" type="LSString" value="" />
                     <attribute id="TableUUID" type="guid" value="5aa3fda7-9efa-44e7-bbf4-b206f6bc98a5" />
                     <attribute id="UUID" type="guid" value="f713e103-48d9-4219-b4b5-80016091738f" />

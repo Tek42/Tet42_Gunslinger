@@ -11,7 +11,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunslinger Level 2" />
-          <attribute id="Spells" type="LSString" value="Target_Smite_Gunslinger_Unlock;Target_Smite_Gunslinger_Critical_Unlock" />
+          <attribute id="Spells" type="LSString" value="Target_Smite_Gunslinger_Unlock;Target_Smite_Gunslinger_Critical_Unlock;Shout_TheseBoots" />
           <attribute id="UUID" type="guid" value="02636dd5-4a67-4ba1-b944-844091f75242" />
         </node>
         <node id="SpellList">
@@ -101,42 +101,42 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunbreaker Level 1" />
-          <attribute id="Spells" type="LSString" value="Tet42_GrappleShot" />
+          <attribute id="Spells" type="LSString" value="GB_FlameStrike" />
           <attribute id="UUID" type="guid" value="b0bce104-d272-494e-af4f-2f4e2c2bad35" />
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunbreaker Level 2" />
-          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="Spells" type="LSString" value="Shout_TheseBoots;GB_Projectile_Net;GB_Fang" />
           <attribute id="UUID" type="guid" value="f150f13a-fc19-46d2-925e-f0fe4f3712c2" />
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunbreaker Level 3" />
-          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="Spells" type="LSString" value="GB_LeapingStrike" />
           <attribute id="UUID" type="guid" value="4b4136d2-3d98-4e54-b31c-4f75723c9cf3" />
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunbreaker Level 4" />
-          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="Spells" type="LSString" value="GB_GrappleShot;GB_Protection_Unlock;GB_Claw" />
           <attribute id="UUID" type="guid" value="2fda55da-0d42-47e4-8ea0-5f84e36d617d" />
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunbreaker Level 5" />
-          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="Spells" type="LSString" value="GB_Countershot_Unlock;GB_Scattergun" />
           <attribute id="UUID" type="guid" value="cfd3e7e9-cce8-405e-8f09-8b4b2d97e2d6" />
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunbreaker Level 6" />
-          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="Spells" type="LSString" value="GB_Projectile_Grease_Grenade;GB_Projectile_Flame_Grenade;GB_Talon" />
           <attribute id="UUID" type="guid" value="700240d1-6215-4fbb-a273-250dc8aa57fb" />
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunbreaker Level 7" />
-          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="Spells" type="LSString" value="GB_Projectile_Frag_Grenade" />
           <attribute id="UUID" type="guid" value="d244f45c-9827-48aa-9baf-f9157ad780a4" />
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunbreaker Level 8" />
-          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="Spells" type="LSString" value="GB_Rescue" />
           <attribute id="UUID" type="guid" value="3f9a2c2d-9313-4166-bfae-8ec62a496f31" />
         </node>
         <node id="SpellList">

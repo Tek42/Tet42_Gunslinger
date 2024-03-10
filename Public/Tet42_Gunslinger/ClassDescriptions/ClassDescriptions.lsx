@@ -77,13 +77,10 @@
                     <attribute id="UUID" type="guid" value="ae45bd19-f105-4d9b-ade0-bd3c3c910cee" />
                     <children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="a1aa47b2-4d0a-4c97-931b-2c53353d5b23" />
+                            <attribute id="Object" type="guid" value="6d85ab2d-5c23-498c-a61e-98f05a00177a" />
                         </node>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="37a733c1-a862-4157-b92a-9cff46232c6a" />
-                        </node>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0" />
                         </node>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="d93434bd-6b71-4789-b128-ee24156057cc" />

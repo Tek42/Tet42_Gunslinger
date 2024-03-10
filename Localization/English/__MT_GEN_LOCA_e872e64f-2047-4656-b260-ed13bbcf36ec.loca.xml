@@ -126,6 +126,36 @@
     <content contentuid="hb3dff921676345129b100b351a822eb54c76" version="1">Gunbreaker</content>
 	<content contentuid="hcd446cb7a5b94612b33bd8d79e830da14d82" version="1">The Gunbreaker is not yet ready to play. There are no abilities or progression available.</content>
 	<content contentuid="h2ee1e6afe0e8423faa184bb4a3ea8ae9b4d2" version="1">Grapple Shot</content>
-    <content contentuid="h097e5d1720f24a38bc87d5170c40af73g6fa" version="1">An electrified tether fires from your gunblade which entangles your target, does [1] and pulls them toward you.</content>
-
+    <content contentuid="h097e5d1720f24a38bc87d5170c40af73g6fa" version="1">Fires an electrified tether and pulls in an enemy within 9m of your position. Compels the enemy to attack you for two turns.</content>
+    <content contentuid="hb2c0c16eabe74d6eac7df75cc44ecd2e8fb3" version="1">These Boots</content>
+    <content contentuid="hf0ffb2e6eed441d18913fa01f3ed49e4f1ca" version="1">Increases movement speed and jump distance.</content>
+    <content contentuid="hcf68e0d1f5ab4b548bbb4db2a45e3bef86c2" version="1">Gunbreaker Protection</content>
+	<content contentuid="h6bff67be699d4dfa82d9d685b556178fc590" version="1">Fires an electrified tether and pulls in an enemy who attacks one of your companions within 9m of your position. Compels the enemy to attack you instead for two turns.</content>
+    <content contentuid="hc1764607e9664a119bb04b174f44d8a7eb73" version="1">Gunbreaker Countershot</content>
+	<content contentuid="hd7967660efeb4e9081058d0368fd7e847gc0" version="1">Counters the spell being cast and deafens the target for 2 turns.</content>
+    <content contentuid="h62ce99ead7f845a3b3970242fe7cfe6ec493" version="1">Fang Strike</content>
+    <content contentuid="hd8ccb920b78c45f590f1064d69106a6772d4" version="1">The first strike in the Gunbreaker combo chain.</content>
+    <content contentuid="h03df780517164798971538fb3ccdf0fb4614" version="1">Claw Strike</content>
+    <content contentuid="h7c7a56b15b1f47399fa2583167750187gbcc" version="1">The second strike in the Gunbreaker combo chain.</content>
+    <content contentuid="hf1d47fc0e38c4d93b66cd2d175e937312f23" version="1">Talon Strike</content>
+    <content contentuid="h52ccd07aae02424a97801ae86e0546ecd2fg" version="1">The final strike in the Gunbreaker combo chain. Regenerates your maximum available Ka upon successful completion.</content>
+    <content contentuid="h60adf851e8f64d76adea8d471321abfaeaf6" version="1">Leaping Strike</content>
+	<content contentuid="h464a467b20c9429a97f659171308c0f9dfbd" version="1">Leap up to 9m to a target location, if you target an enemy unit you will also do damage and knock the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;prone&lt;/LSTag&gt;.</content>
+    <content contentuid="ha1190cd07cb849b79f12cfb82473d57a9adb" version="1">Frag Grenade</content>
+    <content contentuid="h34d148fec7944cbd9f387b688f980538597e" version="1">Fires a fragmentation grenade that causes explosive damage in a 4m radius on impact.</content>
+    <content contentuid="h776df742e1224514a8e769b93484099e1gag" version="1">Flame Grenade</content>
+    <content contentuid="hc1c94ac279f64c58b9491b79998311770f76" version="1">Fires a flame granade that causes fire damage in a 4m radius on impact.</content>
+    <content contentuid="he5ad7af41109455386e84c2ae5c5a2265d54" version="1">Grease Grenade</content>
+    <content contentuid="hc4051ac8c4a54198a330ef155583ebe193b3" version="1">Fires a canister of grease that spreads in a 4m radius on impact.</content>
+    <content contentuid="h3c1c52d19b44415798380665a072dc008fa6" version="1">Piercing Shot</content>
+    <content contentuid="h106f1d81c45d414fbacd1ed28f44a8e147dc" version="1">This shot pierces and &lt;LSTag Type="Status" Tooltip="GAPING_WOUND"&gt;wounds&lt;/LSTag&gt; your target for two turns.</content>
+    <content contentuid="hd94a51823e5a4950a92a3693bc9e8903c856" version="1">Slashing Strike</content>
+    <content contentuid="hca0928e15fbe4b6cae4063049d2d3ad831dg" version="1">Enemies struck by this attack begin &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;bleeding&lt;/LSTag&gt; for two turns.</content>
+    <content contentuid="hf73c277e83114827baef37fdfd98af02d239" version="1">Flame Strike</content>
+    <content contentuid="h8b7baaa5c5de4413ab4cfaa899dcade27g5e" version="1">Enemies struck by this attack begin &lt;LSTag Type="Status" Tooltip="BURNING"&gt;burning&lt;/LSTag&gt; for two turns.</content>t
+    <content contentuid="h58fe80d949bf4b9f9c747c7920195ca12f27" version="1">Gunbreaker Rescue</content>
+    <content contentuid="hb9b1b04a47f54a6eb122c2a7fcc0bdbb51b1" version="1">Rallies the targeted ally granting temporary hit points and encloses them in a protective sphere for two turns.</content>
+    <content contentuid="h48cf4339ca4e4a17a395a55eb54d32e28a6g" version="1">Scattergun Blast</content>
+    <content contentuid="hced8e78350a14305ba695a94c8e89a2b9844" version="1">A close range cone attack that can hit and possibly daze multiple targets.</content>
+    <content contentuid="h0d7600ce38ec4e5cafc2efc1022b74d9f72d" version="1">Gunbreaker's Prey</content>
 </contentList>

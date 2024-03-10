@@ -1,0 +1,11 @@
+new entry "GB_Countershot_Unlock"
+	type "SpellData"
+		data "SpellType" "Target"
+		data "DisplayName" "hc1764607e9664a119bb04b174f44d8a7eb73;1"
+		data "InterruptPrototype" "GB_Countershot"
+
+new entry "GB_Protection_Unlock"
+	type "SpellData"
+		data "SpellType" "Target"
+		data "DisplayName" "hcf68e0d1f5ab4b548bbb4db2a45e3bef86c2;1"
+		data "InterruptPrototype" "GB_Protection"

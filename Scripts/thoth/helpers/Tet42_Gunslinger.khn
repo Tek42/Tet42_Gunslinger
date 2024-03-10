@@ -5,5 +5,5 @@ function IsGSSmite()
 end
 
 function WeenieCheck()
-    return HasUseCosts('GSAmmo') | HasUseCosts('GSAmmoOffhand') | HasUseCosts('Tet42_Gunbreaker_Ammo_Mainhand') | HasUseCosts('Tet42_Gunbreaker_Ammo_Offhand')
+    return HasUseCosts('GSAmmo') | HasUseCosts('GSAmmoOffhand') | HasUseCosts('GB_Ammo_Mainhand') | HasUseCosts('GB_Ammo_Offhand')
 end
