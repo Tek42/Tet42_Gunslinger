@@ -130,7 +130,7 @@
     <content contentuid="hb2c0c16eabe74d6eac7df75cc44ecd2e8fb3" version="1">These Boots</content>
     <content contentuid="hf0ffb2e6eed441d18913fa01f3ed49e4f1ca" version="1">Increases movement speed and jump distance.</content>
     <content contentuid="hcf68e0d1f5ab4b548bbb4db2a45e3bef86c2" version="1">Gunbreaker Protection</content>
-	<content contentuid="h6bff67be699d4dfa82d9d685b556178fc590" version="1">Fires an electrified tether and pulls in an enemy who attacks one of your companions within 9m of your position. Compels the enemy to attack you instead for two turns.</content>
+	<content contentuid="h6bff67be699d4dfa82d9d685b556178fc590" version="1">As a reaction you fire an electrified tether and pull in an enemy who attacks one of your companions within 9m of your position. Compels the enemy to attack you instead for two turns.</content>
     <content contentuid="hc1764607e9664a119bb04b174f44d8a7eb73" version="1">Gunbreaker Countershot</content>
 	<content contentuid="hd7967660efeb4e9081058d0368fd7e847gc0" version="1">Counters the spell being cast and deafens the target for 2 turns.</content>
     <content contentuid="h62ce99ead7f845a3b3970242fe7cfe6ec493" version="1">Fang Strike</content>
@@ -158,4 +158,11 @@
     <content contentuid="h48cf4339ca4e4a17a395a55eb54d32e28a6g" version="1">Scattergun Blast</content>
     <content contentuid="hced8e78350a14305ba695a94c8e89a2b9844" version="1">A close range cone attack that can hit and possibly daze multiple targets.</content>
     <content contentuid="h0d7600ce38ec4e5cafc2efc1022b74d9f72d" version="1">Gunbreaker's Prey</content>
+    <content contentuid="h04b49ea63c324f13aca1180449eaf3809f74" version="1">Rifle 1</content>
+    <content contentuid="h7c25abeb490a43789d7defa1b00563607952" version="1">Rifle 2</content>
+    <content contentuid="h69a542869ce04675a51175be4442742961g3" version="1">Rifle 3</content>
+    <content contentuid="h8fd0a44014d44af1b4e65d7c3d59f395ag91" version="1">Rifle 4</content>
+    <content contentuid="h8b497cfa24154e8fb4f6594ac325a08c5a7e" version="1">Rifle 5</content>
+    <content contentuid="hac035e122b404306b3babc17fb0e4f3940c9" version="1">Net Shot</content>
+    <content contentuid="h57f8e549262e49fe817c8c6ab6c97f37025f" version="1">Fires a net that entangles an enemy for 2 turns.</content>
 </contentList>
