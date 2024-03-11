@@ -165,4 +165,8 @@
     <content contentuid="h8b497cfa24154e8fb4f6594ac325a08c5a7e" version="1">Rifle 5</content>
     <content contentuid="hac035e122b404306b3babc17fb0e4f3940c9" version="1">Net Shot</content>
     <content contentuid="h57f8e549262e49fe817c8c6ab6c97f37025f" version="1">Fires a net that entangles an enemy for 2 turns.</content>
+    <content contentuid="hcf9d616bb0bc460a85374056c4895bb938g5" version="1">Gunblade Ammo Mainhand</content>
+    <content contentuid="h9be16df245854ba9ad89f37c0912cf6008gc" version="1">Gunblade Ammo Mainhand</content>
+    <content contentuid="h2731eaec2a93491eb9d73d5c5dba848242b2" version="1">Gunblade Ammo Offhand</content>
+    <content contentuid="h6f3c6bb01cee4b529dab999555e6d9e87a6e" version="1">Gunblade Ammo Offhand</content>
 </contentList>

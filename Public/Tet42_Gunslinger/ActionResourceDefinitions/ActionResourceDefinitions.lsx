@@ -48,8 +48,8 @@
           <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
         </node>
         <node id="ActionResourceDefinition">
-          <attribute id="Description" type="TranslatedString" handle="h0803bdbbg07c7g4fccg916ag4a403927e4fd" version="1" />
-          <attribute id="DisplayName" type="TranslatedString" handle="h10b98ceagb71ag4fc3g9a2dgb15a5ca0b34d" version="1" />
+          <attribute id="Description" type="TranslatedString" handle="hcf9d616bb0bc460a85374056c4895bb938g5" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h9be16df245854ba9ad89f37c0912cf6008gc" version="1" />
           <attribute id="Error" type="TranslatedString" handle="h5f6353f6gd9bag4ae1gbf50g469f3dc2da51" version="1" />
           <attribute id="IsSpellResource" type="bool" value="false" />
           <attribute id="MaxLevel" type="uint32" value="0" />
@@ -62,8 +62,8 @@
           <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
         </node>
         <node id="ActionResourceDefinition">
-          <attribute id="Description" type="TranslatedString" handle="h0803bdbbg07c7g4fccg916ag4a403927e4fd" version="1" />
-          <attribute id="DisplayName" type="TranslatedString" handle="h1587625dgca1cg4a04g8b5cgbe75a5c73797" version="1" />
+          <attribute id="Description" type="TranslatedString" handle="h2731eaec2a93491eb9d73d5c5dba848242b2" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h6f3c6bb01cee4b529dab999555e6d9e87a6e" version="1" />
           <attribute id="Error" type="TranslatedString" handle="h5f6353f6gd9bag4ae1gbf50g469f3dc2da51" version="1" />
           <attribute id="IsSpellResource" type="bool" value="false" />
           <attribute id="MaxLevel" type="uint32" value="0" />
