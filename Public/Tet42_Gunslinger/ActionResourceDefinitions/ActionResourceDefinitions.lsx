@@ -48,8 +48,8 @@
           <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
         </node>
         <node id="ActionResourceDefinition">
-          <attribute id="Description" type="TranslatedString" handle="hcf9d616bb0bc460a85374056c4895bb938g5" version="1" />
-          <attribute id="DisplayName" type="TranslatedString" handle="h9be16df245854ba9ad89f37c0912cf6008gc" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hcf9d616bb0bc460a85374056c4895bb938g5" version="1" />
+          <attribute id="Description" type="TranslatedString" handle="h9be16df245854ba9ad89f37c0912cf6008gc" version="1" />
           <attribute id="Error" type="TranslatedString" handle="h5f6353f6gd9bag4ae1gbf50g469f3dc2da51" version="1" />
           <attribute id="IsSpellResource" type="bool" value="false" />
           <attribute id="MaxLevel" type="uint32" value="0" />
@@ -62,8 +62,8 @@
           <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
         </node>
         <node id="ActionResourceDefinition">
-          <attribute id="Description" type="TranslatedString" handle="h2731eaec2a93491eb9d73d5c5dba848242b2" version="1" />
           <attribute id="DisplayName" type="TranslatedString" handle="h6f3c6bb01cee4b529dab999555e6d9e87a6e" version="1" />
+          <attribute id="Description" type="TranslatedString" handle="h2731eaec2a93491eb9d73d5c5dba848242b2" version="1" />
           <attribute id="Error" type="TranslatedString" handle="h5f6353f6gd9bag4ae1gbf50g469f3dc2da51" version="1" />
           <attribute id="IsSpellResource" type="bool" value="false" />
           <attribute id="MaxLevel" type="uint32" value="0" />
@@ -73,6 +73,20 @@
           <attribute id="ReplenishType" type="FixedString" value="ShortRest" />
           <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
           <attribute id="UUID" type="guid" value="07f2e534-8d74-4f45-ade9-f65a97e80e75" />
+          <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
+        </node>
+        <node id="ActionResourceDefinition">
+          <attribute id="DisplayName" type="TranslatedString" handle="hc80ef94a0f674c2ab69230abaff186e8e916" version="1" />
+          <attribute id="Description" type="TranslatedString" handle="hb714739325e54228b9114b468e0556fbfbff" version="1" />
+          <attribute id="Error" type="TranslatedString" handle="h5f6353f6gd9bag4ae1gbf50g469f3dc2da51" version="1" />
+          <attribute id="IsSpellResource" type="bool" value="false" />
+          <attribute id="MaxLevel" type="uint32" value="0" />
+          <attribute id="MaxValue" type="uint32" value="3" />
+          <attribute id="DiceType" type="uint32" value="0" />
+          <attribute id="Name" type="FixedString" value="GB_Heat" />
+          <attribute id="ReplenishType" type="FixedString" value="ShortRest" />
+          <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+          <attribute id="UUID" type="guid" value="978369e0-bfcb-4ac8-9d35-69b1cd053e9a" />
           <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
         </node>
       </children>

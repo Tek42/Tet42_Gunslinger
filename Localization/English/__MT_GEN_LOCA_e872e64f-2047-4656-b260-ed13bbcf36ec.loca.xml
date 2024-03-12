@@ -128,7 +128,7 @@
 	<content contentuid="h2ee1e6afe0e8423faa184bb4a3ea8ae9b4d2" version="1">Grapple Shot</content>
     <content contentuid="h097e5d1720f24a38bc87d5170c40af73g6fa" version="1">Fires an electrified tether and pulls in an enemy within 9m of your position. Compels the enemy to attack you for two turns.</content>
     <content contentuid="hb2c0c16eabe74d6eac7df75cc44ecd2e8fb3" version="1">These Boots</content>
-    <content contentuid="hf0ffb2e6eed441d18913fa01f3ed49e4f1ca" version="1">Increases movement speed and jump distance.</content>
+    <content contentuid="hf0ffb2e6eed441d18913fa01f3ed49e4f1ca" version="1">Increases movement speed.</content>
     <content contentuid="hcf68e0d1f5ab4b548bbb4db2a45e3bef86c2" version="1">Gunbreaker Protection</content>
 	<content contentuid="h6bff67be699d4dfa82d9d685b556178fc590" version="1">As a reaction you fire an electrified tether and pull in an enemy who attacks one of your companions within 9m of your position. Compels the enemy to attack you instead for two turns.</content>
     <content contentuid="hc1764607e9664a119bb04b174f44d8a7eb73" version="1">Gunbreaker Countershot</content>
@@ -165,8 +165,10 @@
     <content contentuid="h8b497cfa24154e8fb4f6594ac325a08c5a7e" version="1">Rifle 5</content>
     <content contentuid="hac035e122b404306b3babc17fb0e4f3940c9" version="1">Net Shot</content>
     <content contentuid="h57f8e549262e49fe817c8c6ab6c97f37025f" version="1">Fires a net that entangles an enemy for 2 turns.</content>
-    <content contentuid="hcf9d616bb0bc460a85374056c4895bb938g5" version="1">Gunblade Ammo Mainhand</content>
-    <content contentuid="h9be16df245854ba9ad89f37c0912cf6008gc" version="1">Gunblade Ammo Mainhand</content>
-    <content contentuid="h2731eaec2a93491eb9d73d5c5dba848242b2" version="1">Gunblade Ammo Offhand</content>
-    <content contentuid="h6f3c6bb01cee4b529dab999555e6d9e87a6e" version="1">Gunblade Ammo Offhand</content>
+    <content contentuid="hcf9d616bb0bc460a85374056c4895bb938g5" version="1">Main-hand Ammo</content>
+    <content contentuid="h9be16df245854ba9ad89f37c0912cf6008gc" version="1">Number of Shots remaining before you need to reload your main Gunblade.</content>
+    <content contentuid="h6f3c6bb01cee4b529dab999555e6d9e87a6e" version="1">Off-hand Ammo</content>
+    <content contentuid="h2731eaec2a93491eb9d73d5c5dba848242b2" version="1">Number of Shots remaining before you need to reload your off-hand Gunblade.</content>
+    <content contentuid="hc80ef94a0f674c2ab69230abaff186e8e916" version="1">Heat</content>
+    <content contentuid="hb714739325e54228b9114b468e0556fbfbff" version="1">Heat charges.</content>
 </contentList>
