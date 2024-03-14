@@ -71,10 +71,10 @@
 	<content contentuid="h76f6ce90g1c50g47bcg94aeg58088544d88c" version="1">Gunslinger Smite: Reaction</content>
 	<content contentuid="hf7bb24f8g80d6g4a2bg958egd78daf7aeb8b" version="1">Gunslinger Smite Critical: Reaction</content>
 	<content contentuid="hd06e672dg93edg42b4g83f5gf0a84008f274" version="1">Deals an additional [1] per level.</content>
-	<content contentuid="h8c0c1fefg8c2fg443cg8bc3gb07926d661b1" version="1">Basic Firearm Maintenance Kit</content>
-	<content contentuid="ha6bfa880gfd81g446aga185g397c76cdd255" version="1">Contains a basic quality set of tools that includes a cleaning rod, brushes, a cleaning swab, oils, and rags to keep your firearm in working order.</content>
+	<content contentuid="h8c0c1fefg8c2fg443cg8bc3gb07926d661b1" version="1">Basic Firearm Maintenance Kit&lt;br&gt;UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
+	<content contentuid="ha6bfa880gfd81g446aga185g397c76cdd255" version="1">Contains a basic quality set of tools that includes a cleaning rod, brushes, a cleaning swab, oils, and rags to keep your firearm in working order.&lt;br&gt;UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
 	<content contentuid="ha402d69a04d846808c4550690e02dd8e154d" version="1">Advanced Firearm Maintenance Kit</content>
-	<content contentuid="h66f6326cg7871g4a2dg8ac2g9f4fa46f1e81" version="1">Contains a high quality set of tools that includes a cleaning rod, jags, patches, brushes, chemicals, a cleaning swab, oils, and rags to keep your firearm in excellent working order.</content>
+	<content contentuid="h66f6326cg7871g4a2dg8ac2g9f4fa46f1e81" version="1">Contains a high quality set of tools that includes a cleaning rod, jags, patches, brushes, chemicals, a cleaning swab, oils, and rags to keep your firearm in excellent working order.&lt;br&gt;UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
 	<content contentuid="hd626ea3cga23fg4440ga97ag783fb1149cfd" version="1">Novice Gunslinger Revolver</content>
 	<content contentuid="h59664035g6932g441fg81f7g94b4f6f80239" version="1">A used weapon that hasn't been maintained well. This is a novice Gunslingers revolver.&lt;br&gt;You should look around for some maintenance tools.</content>
 	<content contentuid="hd81a1e28g574cg42b5gabd0gd85f3bb2984f" version="1">Advanced Gunslinger Revolver</content>
@@ -86,7 +86,7 @@
 	<content contentuid="h22dbf160563d41ac908e3351f6bdcd25d6e7" version="1">Armament of Eld</content>
 	<content contentuid="h06d21706f0bb4f5693c9d73bc24eca3e856f" version="1">This is the weapon of a master Gunslinger.</content>
 	<content contentuid="h7da7b7263a3e4a0787910df48d1eb2e10664" version="1">Firearm Mini Forge</content>
-	<content contentuid="h23ffe6d7a93b45b8a79ac1f6391bf6184847" version="1">A small forge with tools that will enable you to break down your existing gun to create something new.</content>
+	<content contentuid="h23ffe6d7a93b45b8a79ac1f6391bf6184847" version="1">A small forge with tools that will enable you to break down your existing gun to create something new.&lt;br&gt;UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
 	<content contentuid="hcac39e2b23ad458e9f0ad76182e9f9cfg214" version="1">Improved Gunslinger Smite</content>
 	<content contentuid="h9cf3f4afa32649dfb65c79f6f95b66237073" version="1">Your attacks are infused with extra force.&lt;br&gt;&lt;br&gt;Ranged weapon attacks deal an additional [1].</content>
 	<content contentuid="he595677561774d5c994574e9b1b063d62169" version="1">High Velocity Round</content>
@@ -127,8 +127,8 @@
 	<content contentuid="hcd446cb7a5b94612b33bd8d79e830da14d82" version="1">The Gunbreaker is not yet ready to play. There are no abilities or progression available.</content>
 	<content contentuid="h2ee1e6afe0e8423faa184bb4a3ea8ae9b4d2" version="1">Grapple Shot</content>
     <content contentuid="h097e5d1720f24a38bc87d5170c40af73g6fa" version="1">Fires an electrified tether and pulls in an enemy within 9m of your position. Compels the enemy to attack you for two turns.</content>
-    <content contentuid="hb2c0c16eabe74d6eac7df75cc44ecd2e8fb3" version="1">These Boots</content>
-    <content contentuid="hf0ffb2e6eed441d18913fa01f3ed49e4f1ca" version="1">Increases movement speed.</content>
+    <content contentuid="h2d623e88740b458686a93ccf062b63352c39" version="1">These Boots</content>
+    <content contentuid="h77247b30a91344d09cab86f7fe49f4cdgbf4" version="1">Increases movement speed.</content>
     <content contentuid="hcf68e0d1f5ab4b548bbb4db2a45e3bef86c2" version="1">Gunbreaker Protection</content>
 	<content contentuid="h6bff67be699d4dfa82d9d685b556178fc590" version="1">As a reaction you fire an electrified tether and pull in an enemy who attacks one of your companions within 9m of your position. Compels the enemy to attack you instead for two turns.</content>
     <content contentuid="hc1764607e9664a119bb04b174f44d8a7eb73" version="1">Gunbreaker Countershot</content>

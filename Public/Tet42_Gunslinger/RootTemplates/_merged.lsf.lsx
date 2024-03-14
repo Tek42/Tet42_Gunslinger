@@ -1257,6 +1257,13 @@
 								</node>
 							</children>
 						</node>
+						<node id="EquipmentTypes">
+							<children>
+								<node id="">
+									<attribute id="Object" type="guid" value="22940785-1830-44e2-8b3a-22a23bb63be1" />
+								</node>
+							</children>
+						</node>
 					</children>
 				</node>
 				<node id="GameObjects">
@@ -1315,6 +1322,13 @@
 											<attribute id="PlayOnHUD" type="bool" value="False" />
 										</node>
 									</children>
+								</node>
+							</children>
+						</node>
+						<node id="EquipmentTypes">
+							<children>
+								<node id="">
+									<attribute id="Object" type="guid" value="22940785-1830-44e2-8b3a-22a23bb63be1" />
 								</node>
 							</children>
 						</node>
@@ -1379,6 +1393,13 @@
 								</node>
 							</children>
 						</node>
+						<node id="EquipmentTypes">
+							<children>
+								<node id="">
+									<attribute id="Object" type="guid" value="22940785-1830-44e2-8b3a-22a23bb63be1" />
+								</node>
+							</children>
+						</node>
 					</children>
 				</node>
 				<node id="GameObjects">
@@ -1437,6 +1458,13 @@
 											<attribute id="PlayOnHUD" type="bool" value="False" />
 										</node>
 									</children>
+								</node>
+							</children>
+						</node>
+						<node id="EquipmentTypes">
+							<children>
+								<node id="">
+									<attribute id="Object" type="guid" value="22940785-1830-44e2-8b3a-22a23bb63be1" />
 								</node>
 							</children>
 						</node>
@@ -1501,6 +1529,13 @@
 								</node>
 							</children>
 						</node>
+						<node id="EquipmentTypes">
+							<children>
+								<node id="">
+									<attribute id="Object" type="guid" value="22940785-1830-44e2-8b3a-22a23bb63be1" />
+								</node>
+							</children>
+						</node>
 					</children>
 				</node>
 				<node id="GameObjects">
@@ -1562,6 +1597,13 @@
 								</node>
 							</children>
 						</node>
+						<node id="EquipmentTypes">
+							<children>
+								<node id="">
+									<attribute id="Object" type="guid" value="22940785-1830-44e2-8b3a-22a23bb63be1" />
+								</node>
+							</children>
+						</node>
 					</children>
 				</node>
 				<node id="GameObjects">
@@ -1620,6 +1662,13 @@
 											<attribute id="PlayOnHUD" type="bool" value="False" />
 										</node>
 									</children>
+								</node>
+							</children>
+						</node>
+						<node id="EquipmentTypes">
+							<children>
+								<node id="">
+									<attribute id="Object" type="guid" value="22940785-1830-44e2-8b3a-22a23bb63be1" />
 								</node>
 							</children>
 						</node>

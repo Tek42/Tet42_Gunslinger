@@ -83,8 +83,8 @@
           <attribute id="MaxLevel" type="uint32" value="0" />
           <attribute id="MaxValue" type="uint32" value="3" />
           <attribute id="DiceType" type="uint32" value="0" />
-          <attribute id="Name" type="FixedString" value="GB_Heat" />
-          <attribute id="ReplenishType" type="FixedString" value="ShortRest" />
+          <attribute id="Name" type="FixedString" value="GB_OverHeat" />
+          <attribute id="ReplenishType" type="FixedString" value="Never" />
           <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
           <attribute id="UUID" type="guid" value="978369e0-bfcb-4ac8-9d35-69b1cd053e9a" />
           <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
