@@ -5,18 +5,33 @@
     <node id="root">
       <children>
         <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Class Level 1" />
+          <attribute id="Spells" type="LSString" value="Shout_GunslingerFocus" />
+          <attribute id="UUID" type="guid" value="d665817b-1c53-46bd-a814-fde8a1cb3817" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Class Level 3" />
+          <attribute id="Spells" type="LSString" value="Shout_InspiringPalaver" />
+          <attribute id="UUID" type="guid" value="1d2f1689-0c84-4311-a8bc-60ce15768f27" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Class Level 7" />
+          <attribute id="Spells" type="LSString" value="Shout_AuraOfGunslinger" />
+          <attribute id="UUID" type="guid" value="e3631967-6f86-401e-9da0-008c0653f586" />
+        </node>
+        <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunslinger Level 1" />
-          <attribute id="Spells" type="LSString" value="Shout_GunslingerFocus;Target_AimWithMyEye" />
+          <attribute id="Spells" type="LSString" value="Target_AimWithMyEye" />
           <attribute id="UUID" type="guid" value="221ad8c3-c1d7-44fa-8b5a-977c0f1c8491" />
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunslinger Level 2" />
-          <attribute id="Spells" type="LSString" value="Target_Smite_Gunslinger_Unlock;Target_Smite_Gunslinger_Critical_Unlock;Shout_TheseBoots" />
+          <attribute id="Spells" type="LSString" value="Target_Smite_Gunslinger_Unlock;Target_Smite_Gunslinger_Critical_Unlock" />
           <attribute id="UUID" type="guid" value="02636dd5-4a67-4ba1-b944-844091f75242" />
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunslinger Level 3" />
-          <attribute id="Spells" type="LSString" value="Target_ShootWithMyMind;Shout_InspiringPalaver;Gunslinger_Protection_Unlock;Projectile_GS_Trickshot" />
+          <attribute id="Spells" type="LSString" value="Target_ShootWithMyMind;Gunslinger_Protection_Unlock;Projectile_GS_Trickshot" />
           <attribute id="UUID" type="guid" value="02b0e949-3073-46aa-90e2-f3b17647baba" />
         </node>
         <node id="SpellList">
@@ -31,7 +46,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunslinger Level 7" />
-          <attribute id="Spells" type="LSString" value="Shout_AuraOfGunslinger;Zone_GS_HV_Round" />
+          <attribute id="Spells" type="LSString" value="Zone_GS_HV_Round" />
           <attribute id="UUID" type="guid" value="6a347235-63e3-4c6b-80f5-157d3f36e85f" />
         </node>
         <node id="SpellList">

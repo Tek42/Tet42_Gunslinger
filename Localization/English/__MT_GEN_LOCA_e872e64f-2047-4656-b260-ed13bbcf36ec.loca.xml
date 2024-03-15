@@ -154,7 +154,7 @@
     <content contentuid="hf73c277e83114827baef37fdfd98af02d239" version="1">Flame Strike</content>
     <content contentuid="h8b7baaa5c5de4413ab4cfaa899dcade27g5e" version="1">Enemies struck by this attack begin &lt;LSTag Type="Status" Tooltip="BURNING"&gt;burning&lt;/LSTag&gt; for two turns.</content>t
     <content contentuid="h58fe80d949bf4b9f9c747c7920195ca12f27" version="1">Gunbreaker Rescue</content>
-    <content contentuid="hb9b1b04a47f54a6eb122c2a7fcc0bdbb51b1" version="1">Rallies the targeted ally granting temporary hit points and encloses them in a protective sphere for two turns.</content>
+    <content contentuid="hb9b1b04a47f54a6eb122c2a7fcc0bdbb51b1" version="1">Rallies the targeted ally, grants temporary hit points and encloses them in a protective sphere for two turns.</content>
     <content contentuid="h48cf4339ca4e4a17a395a55eb54d32e28a6g" version="1">Scattergun Blast</content>
     <content contentuid="hced8e78350a14305ba695a94c8e89a2b9844" version="1">A close range cone attack that can hit and possibly daze multiple targets.</content>
     <content contentuid="h0d7600ce38ec4e5cafc2efc1022b74d9f72d" version="1">Gunbreaker's Prey</content>
@@ -164,9 +164,9 @@
     <content contentuid="h8fd0a44014d44af1b4e65d7c3d59f395ag91" version="1">Rifle 4</content>
     <content contentuid="h8b497cfa24154e8fb4f6594ac325a08c5a7e" version="1">Rifle 5</content>
     <content contentuid="hac035e122b404306b3babc17fb0e4f3940c9" version="1">Net Shot</content>
-    <content contentuid="h57f8e549262e49fe817c8c6ab6c97f37025f" version="1">Fires a net that entangles an enemy for 2 turns.</content>
+    <content contentuid="h57f8e549262e49fe817c8c6ab6c97f37025f" version="1">Fires a net that entangles an enemy for 2 turns. If successful, it cannot be used again on the same enemy for 4 turns.</content>
     <content contentuid="hcf9d616bb0bc460a85374056c4895bb938g5" version="1">Main-hand Ammo</content>
-    <content contentuid="h9be16df245854ba9ad89f37c0912cf6008gc" version="1">Number of Shots remaining before you need to reload your main Gunblade.</content>
+    <content contentuid="h9be16df245854ba9ad89f37c0912cf6008gc" version="1">Number of Shots remaining before you need to reload your Gunblade.</content>
     <content contentuid="h6f3c6bb01cee4b529dab999555e6d9e87a6e" version="1">Off-hand Ammo</content>
     <content contentuid="h2731eaec2a93491eb9d73d5c5dba848242b2" version="1">Number of Shots remaining before you need to reload your off-hand Gunblade.</content>
     <content contentuid="hc80ef94a0f674c2ab69230abaff186e8e916" version="1">Heat</content>

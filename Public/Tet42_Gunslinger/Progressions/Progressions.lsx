@@ -64,7 +64,7 @@
                     <attribute id="Name" type="LSString" value="Gunslinger" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d665817b-1c53-46bd-a814-fde8a1cb3817,,,,AlwaysPrepared)" />
                     <attribute id="TableUUID" type="guid" value="547f2bc4-750f-417a-97b8-dbb24c53ee49" />
                     <attribute id="UUID" type="guid" value="b1917353-75e3-4f69-9fdb-d705c5b586a1" />
                 </node>
@@ -85,7 +85,7 @@
                     <attribute id="AllowImprovement" type="bool" value="false" />
                     <attribute id="Name" type="LSString" value="Gunslinger" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(1d2f1689-0c84-4311-a8bc-60ce15768f27,,,,AlwaysPrepared)" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
                     <attribute id="TableUUID" type="guid" value="547f2bc4-750f-417a-97b8-dbb24c53ee49" />
                     <attribute id="UUID" type="guid" value="7b17844e-bdee-4d7c-9eba-dbbf49039257" />
@@ -131,7 +131,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
                     <attribute id="PassivesRemoved" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(e3631967-6f86-401e-9da0-008c0653f586,,,,AlwaysPrepared)" />
                     <attribute id="TableUUID" type="guid" value="547f2bc4-750f-417a-97b8-dbb24c53ee49" />
                     <attribute id="UUID" type="guid" value="c3213cf7-6cd1-418d-9797-a5b0b5adf877" />
                 </node>
