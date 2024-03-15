@@ -1,3 +1,3 @@
-BG3 Paladin subclass Oath of the Gunslinger
+BG3 class The Gunslingers
 
-https://www.nexusmods.com/baldursgate3/mods/6341
+https://www.nexusmods.com/baldursgate3/mods/7223
