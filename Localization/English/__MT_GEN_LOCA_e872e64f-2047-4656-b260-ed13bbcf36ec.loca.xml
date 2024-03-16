@@ -124,7 +124,7 @@
     <content contentuid="he6cb24f5225145cabeac351e793e35cba20g" version="1">BLAH</content>
 	<!--GUNBREAKER-->
     <content contentuid="hb3dff921676345129b100b351a822eb54c76" version="1">Gunbreaker</content>
-	<content contentuid="hcd446cb7a5b94612b33bd8d79e830da14d82" version="1">The Gunbreaker is not yet ready to play. There are no abilities or progression available.</content>
+	<content contentuid="hcd446cb7a5b94612b33bd8d79e830da14d82" version="1">The Gunbreaker is a mysterious nomadic warrior. This subclass is a defensive high mobility skirmisher that focuses on controlling and harassing enemies. With a wide variety of ammo types, the Gunbreaker has a shot for every occasion.</content>
 	<content contentuid="h2ee1e6afe0e8423faa184bb4a3ea8ae9b4d2" version="1">Grapple Shot</content>
     <content contentuid="h097e5d1720f24a38bc87d5170c40af73g6fa" version="1">Fires an electrified tether and pulls in an enemy within 9m of your position. Compels the enemy to attack you for two turns.</content>
     <content contentuid="h2d623e88740b458686a93ccf062b63352c39" version="1">These Boots</content>
@@ -147,12 +147,10 @@
     <content contentuid="hc1c94ac279f64c58b9491b79998311770f76" version="1">Fires a flame granade that causes fire damage in a 4m radius on impact.</content>
     <content contentuid="he5ad7af41109455386e84c2ae5c5a2265d54" version="1">Grease Grenade</content>
     <content contentuid="hc4051ac8c4a54198a330ef155583ebe193b3" version="1">Fires a canister of grease that spreads in a 4m radius on impact.</content>
-    <content contentuid="h3c1c52d19b44415798380665a072dc008fa6" version="1">Piercing Shot</content>
-    <content contentuid="h106f1d81c45d414fbacd1ed28f44a8e147dc" version="1">This shot pierces and &lt;LSTag Type="Status" Tooltip="GAPING_WOUND"&gt;wounds&lt;/LSTag&gt; your target for two turns.</content>
-    <content contentuid="hd94a51823e5a4950a92a3693bc9e8903c856" version="1">Slashing Strike</content>
-    <content contentuid="hca0928e15fbe4b6cae4063049d2d3ad831dg" version="1">Enemies struck by this attack begin &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;bleeding&lt;/LSTag&gt; for two turns.</content>
-    <content contentuid="hf73c277e83114827baef37fdfd98af02d239" version="1">Flame Strike</content>
-    <content contentuid="h8b7baaa5c5de4413ab4cfaa899dcade27g5e" version="1">Enemies struck by this attack begin &lt;LSTag Type="Status" Tooltip="BURNING"&gt;burning&lt;/LSTag&gt; for two turns.</content>t
+	<content contentuid="he19f30df8d1242c08959e1ee2353a74d4d24" version="1">Piercing Shot</content>
+ 	<content contentuid="hf73c277e83114827baef37fdfd98af02d239" version="1">Flame Strike</content>
+	<content contentuid="h49cff3bd65ab413d93527c8056c56cd7c3d7" version="1">Flame Shot</content>
+    <content contentuid="h8b7baaa5c5de4413ab4cfaa899dcade27g5e" version="1">Enemies struck by this attack take bonus flame damage from overheat.</content>
     <content contentuid="h58fe80d949bf4b9f9c747c7920195ca12f27" version="1">Gunbreaker Rescue</content>
     <content contentuid="hb9b1b04a47f54a6eb122c2a7fcc0bdbb51b1" version="1">Rallies the targeted ally, grants temporary hit points and encloses them in a protective sphere for two turns.</content>
     <content contentuid="h48cf4339ca4e4a17a395a55eb54d32e28a6g" version="1">Scattergun Blast</content>
@@ -169,6 +167,20 @@
     <content contentuid="h9be16df245854ba9ad89f37c0912cf6008gc" version="1">Number of Shots remaining before you need to reload your Gunblade.</content>
     <content contentuid="h6f3c6bb01cee4b529dab999555e6d9e87a6e" version="1">Off-hand Ammo</content>
     <content contentuid="h2731eaec2a93491eb9d73d5c5dba848242b2" version="1">Number of Shots remaining before you need to reload your off-hand Gunblade.</content>
-    <content contentuid="hc80ef94a0f674c2ab69230abaff186e8e916" version="1">Heat</content>
-    <content contentuid="hb714739325e54228b9114b468e0556fbfbff" version="1">Heat charges.</content>
+	<content contentuid="hf06333b71e054bbe955263964fa50ecd1c4g" version="1">Gunbreaker Overheat</content>
+	<content contentuid="h5d61c3aa25044e86886c5446580da68aaea9" version="1">Engulfed by a vengeful fire. Takes [1] each turn, but can use &lt;LSTag Type="Passive" Tooltip="MAG_Fire_Heat_Convergence_Passive"&gt;Overheat Convergence&lt;/LSTag&gt;.</content>
+	<content contentuid="h527fe4e8665b4c70b79e9dc0ae80640c87cc" version="1">Overheat Convergence</content>
+	<content contentuid="h9703d33ec1594b9f878d480b9345430023da" version="1">The next time you deal Fire damage, it deals an additional [1] for every turn of &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Overheat&lt;/LSTag&gt; affecting you.</content>
+	<content contentuid="haad5198baf5347a492c73e0fe24a17910g44" version="1">%%% EMPTY</content>
+	<content contentuid="hf2e7d4aaaf8c498c8789ff6057fb653e8852" version="1">%%% Overheat Duration Check</content>
+	<content contentuid="hac849a3ea5b94eea8e2e5c3b93b573a7ef64" version="2">Overheat Convergence</content>
+	<content contentuid="hbb90c24ac1e7406ab5372db179019c28f30b" version="1">Consume your &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Overheat&lt;/LSTag&gt; to fuel a powerful attack. </content>
+	<content contentuid="hd1ce23f8e3924a39bc6c95ee52a8517fagdb" version="1">The next time you deal Fire damage, you deal an additional [1] for every turn of overheat remaining.</content>
+	<content contentuid="h03eee95834dc49e7a80ec3af88c867876cf7" version="1">Hellfire</content>
+	<content contentuid="he1a1b81fe17d43c380f94a5fb09a1d0626c2" version="1">Whenever you inflict &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;, you gain 1 turn of &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Overheat&lt;/LSTag&gt;.</content>
+	<content contentuid="h62cc5024ee754174a9524a3ca80ac5014b18" version="1">Hot Lead</content>
+	<content contentuid="h3e6b7f8b273943709628109a518fd623f773" version="1">Whenever you deal Fire damage, you gain 2 turns of &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Overheat&lt;/LSTag&gt;.</content>
+	<content contentuid="h7dea1de68e164239b9889effc8b4331173eb" version="1">Basic Gunblade Maintenance Kit</content>
+    <content contentuid="hfee9ca37fcd140ea8c21e310f33d168730f4" version="1">Advanced Gunblade Maintenance Kit</content>
+    <content contentuid="h540924627dd348bd9132561f9d6585cf15c8" version="1">Gunblade Mini Forge</content>
 </contentList>

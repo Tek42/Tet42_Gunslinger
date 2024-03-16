@@ -140,6 +140,54 @@
                     <attribute id="Name" type="FixedString" value="GB_Talon"/>
                     <attribute id="UUID" type="guid" value="d74f0d4b-5a61-49dc-b1ff-eff88d928064"/>
                 </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level2" type="LSString" value="1d4"/>
+                    <attribute id="Level1" type="LSString" value="1d4"/>
+                    <attribute id="Level10" type="LSString" value="1d8"/>
+                    <attribute id="Level11" type="LSString" value="1d8"/>
+                    <attribute id="Level12" type="LSString" value="1d8"/>
+                    <attribute id="Level3" type="LSString" value="1d4"/>
+                    <attribute id="Level4" type="LSString" value="1d4"/>
+                    <attribute id="Level5" type="LSString" value="1d4"/>
+                    <attribute id="Level6" type="LSString" value="1d4"/>
+                    <attribute id="Level7" type="LSString" value="1d6"/>
+                    <attribute id="Level8" type="LSString" value="1d6"/>
+                    <attribute id="Level9" type="LSString" value="1d6"/>
+                    <attribute id="Name" type="FixedString" value="Gunbreaker"/>
+                    <attribute id="UUID" type="guid" value="73e4a42d-3896-439f-8a59-95b116bae3c9"/>
+                </node>
+                                <node id="LevelMapSeries">
+                    <attribute id="Level2" type="LSString" value=""/>
+                    <attribute id="Level1" type="LSString" value=""/>
+                    <attribute id="Level10" type="LSString" value="2d8"/>
+                    <attribute id="Level11" type="LSString" value="2d8"/>
+                    <attribute id="Level12" type="LSString" value="2d8"/>
+                    <attribute id="Level3" type="LSString" value=""/>
+                    <attribute id="Level4" type="LSString" value="1d8"/>
+                    <attribute id="Level5" type="LSString" value="1d8"/>
+                    <attribute id="Level6" type="LSString" value="1d8"/>
+                    <attribute id="Level7" type="LSString" value="1d12"/>
+                    <attribute id="Level8" type="LSString" value="1d12"/>
+                    <attribute id="Level9" type="LSString" value="1d12"/>
+                    <attribute id="Name" type="FixedString" value="GunbreakerScaling"/>
+                    <attribute id="UUID" type="guid" value="76882900-00af-49de-a6b4-d8fbb0cdaa98"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level2" type="LSString" value="1d4"/>
+                    <attribute id="Level1" type="LSString" value="1d4"/>
+                    <attribute id="Level10" type="LSString" value="1d8"/>
+                    <attribute id="Level11" type="LSString" value="1d8"/>
+                    <attribute id="Level12" type="LSString" value="1d8"/>
+                    <attribute id="Level3" type="LSString" value="1d4"/>
+                    <attribute id="Level4" type="LSString" value="1d4"/>
+                    <attribute id="Level5" type="LSString" value="1d4"/>
+                    <attribute id="Level6" type="LSString" value="1d4"/>
+                    <attribute id="Level7" type="LSString" value="1d6"/>
+                    <attribute id="Level8" type="LSString" value="1d6"/>
+                    <attribute id="Level9" type="LSString" value="1d6"/>
+                    <attribute id="Name" type="FixedString" value="GunbreakerOverheat"/>
+                    <attribute id="UUID" type="guid" value="c14ffb10-8480-453a-9bc8-1de6dc90b843"/>
+                </node>
             </children>
         </node>
     </region>

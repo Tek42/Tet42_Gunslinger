@@ -764,7 +764,7 @@
                     <attribute id="Name" type="LSString" value="Gunbreaker" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(971fb5a0-f8c3-417a-9fb8-c22dac41851f,1,FightingStyle)" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(12078613-8bf0-4c5c-ae8c-6142fe134d10,,,,AlwaysPrepared);SelectPassives(971fb5a0-f8c3-417a-9fb8-c22dac41851f,1,FightingStyle)" />
                     <attribute id="TableUUID" type="guid" value="5aa3fda7-9efa-44e7-bbf4-b206f6bc98a5" />
                     <attribute id="UUID" type="guid" value="df2ff1db-48ae-4ab5-9e5f-6dc0f5fe3671" />
                 </node>
@@ -784,7 +784,7 @@
                     <attribute id="Name" type="LSString" value="Gunbreaker" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(e0414fdb-35e9-4f17-b1e7-8c1e5228b7d9,,,,AlwaysPrepared)" />
                     <attribute id="TableUUID" type="guid" value="5aa3fda7-9efa-44e7-bbf4-b206f6bc98a5" />
                     <attribute id="UUID" type="guid" value="b6e85c40-4250-445b-96d0-c77fd386655c" />
                 </node>
