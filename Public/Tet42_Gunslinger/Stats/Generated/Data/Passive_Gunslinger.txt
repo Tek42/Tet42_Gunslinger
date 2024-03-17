@@ -22,7 +22,7 @@ new entry "GSDisarmingAttack"
 		data "DisplayName" "ha21fd129ga099g435ag9297gc77a566a5901;2"
 		data "Description" "hb567e7abg48f7g4b73g96e3g7750ecb59f62;4"
 		data "DescriptionParams" "LevelMapValue(GSSuperiorityDie)"
-		data "Icon" "Action_DisarmingAttack_Melee"
+		data "Icon" "Action_DisarmingAttack_Ranged"
 		data "Boosts" "UnlockSpell(Projectile_GS_DisarmingAttack)"
 
 new entry "GSDistractingStrike"

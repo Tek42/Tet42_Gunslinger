@@ -156,7 +156,7 @@
                     <attribute id="Name" type="FixedString" value="Gunbreaker"/>
                     <attribute id="UUID" type="guid" value="73e4a42d-3896-439f-8a59-95b116bae3c9"/>
                 </node>
-                                <node id="LevelMapSeries">
+                <node id="LevelMapSeries">
                     <attribute id="Level2" type="LSString" value=""/>
                     <attribute id="Level1" type="LSString" value=""/>
                     <attribute id="Level10" type="LSString" value="2d8"/>

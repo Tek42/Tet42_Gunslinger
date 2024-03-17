@@ -133,7 +133,8 @@
 	<content contentuid="h6bff67be699d4dfa82d9d685b556178fc590" version="1">As a reaction you fire an electrified tether and pull in an enemy who attacks one of your companions within 9m of your position. Compels the enemy to attack you instead for two turns.</content>
     <content contentuid="hc1764607e9664a119bb04b174f44d8a7eb73" version="1">Gunbreaker Countershot</content>
 	<content contentuid="hd7967660efeb4e9081058d0368fd7e847gc0" version="1">Counters the spell being cast and deafens the target for 2 turns.</content>
-    <content contentuid="h62ce99ead7f845a3b3970242fe7cfe6ec493" version="1">Fang Strike</content>
+    <content contentuid="h3dcd2463874c4f2884b6d27df0994f560c10" version="1">Dual Wield Gunblade Attack</content>
+	<content contentuid="h62ce99ead7f845a3b3970242fe7cfe6ec493" version="1">Fang Strike</content>
     <content contentuid="hd8ccb920b78c45f590f1064d69106a6772d4" version="1">The first strike in the Gunbreaker combo chain.</content>
     <content contentuid="h03df780517164798971538fb3ccdf0fb4614" version="1">Claw Strike</content>
     <content contentuid="h7c7a56b15b1f47399fa2583167750187gbcc" version="1">The second strike in the Gunbreaker combo chain.</content>
@@ -183,4 +184,8 @@
 	<content contentuid="h7dea1de68e164239b9889effc8b4331173eb" version="1">Basic Gunblade Maintenance Kit</content>
     <content contentuid="hfee9ca37fcd140ea8c21e310f33d168730f4" version="1">Advanced Gunblade Maintenance Kit</content>
     <content contentuid="h540924627dd348bd9132561f9d6585cf15c8" version="1">Gunblade Mini Forge</content>
+	<!--GUNFU-->
+	<content contentuid="hf2ce0a4884a34d8d8d39d21d49a4e68601f8" version="1">Gun-Fu: The Way of the Gun</content>
+    <content contentuid="h25f139086d1249988cc2a6f951bc8e176f26" version="1">This subclass is not ready for play. Do not use this subclass.</content>
+
 </contentList>
