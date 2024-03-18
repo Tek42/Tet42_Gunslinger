@@ -184,8 +184,9 @@
 	<content contentuid="h7dea1de68e164239b9889effc8b4331173eb" version="1">Basic Gunblade Maintenance Kit</content>
     <content contentuid="hfee9ca37fcd140ea8c21e310f33d168730f4" version="1">Advanced Gunblade Maintenance Kit</content>
     <content contentuid="h540924627dd348bd9132561f9d6585cf15c8" version="1">Gunblade Mini Forge</content>
-	<!--GUNFU-->
-	<content contentuid="hf2ce0a4884a34d8d8d39d21d49a4e68601f8" version="1">Gun-Fu: The Way of the Gun</content>
+	<!--Gunjitsu-->
+	<content contentuid="hf2ce0a4884a34d8d8d39d21d49a4e68601f8" version="1">Gunjitsu: The Way of the Gun</content>
     <content contentuid="h25f139086d1249988cc2a6f951bc8e176f26" version="1">This subclass is not ready for play. Do not use this subclass.</content>
-
+    <content contentuid="h06783a53fe08408fbc958149e8e81b03c52d" version="1">Novice Gunjitsu Attack</content>
+    <content contentuid="h1d69e10af6444ad69fcb850315515a46482a" version="1">The attack of a novice, you will improve with practice.</content>
 </contentList>

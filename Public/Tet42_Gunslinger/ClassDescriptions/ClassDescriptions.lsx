@@ -118,12 +118,12 @@
                 </node>
                 <node id="ClassDescription">
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
-                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Tet42_GunFu" />
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Tet42_Gunjitsu" />
                     <attribute id="Description" type="TranslatedString" handle="hf2ce0a4884a34d8d8d39d21d49a4e68601f8" version="1" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h25f139086d1249988cc2a6f951bc8e176f26" version="1" />
                     <attribute id="LearningStrategy" type="uint8" value="1" />
                     <attribute id="MulticlassSpellcasterModifier" type="double" value="1" />
-                    <attribute id="Name" type="FixedString" value="GunFu" />
+                    <attribute id="Name" type="FixedString" value="Gunjitsu" />
                     <attribute id="PrimaryAbility" type="uint8" value="1" />
                     <attribute id="ParentGuid" type="guid" value="2a95cb12-1f37-4287-ac3e-76818f0eb407" />
                     <attribute id="ProgressionTableUUID" type="guid" value="8adb0dc4-0b82-4fe8-bcd1-ac620f1b94c4" />
