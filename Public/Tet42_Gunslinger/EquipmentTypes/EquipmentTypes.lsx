@@ -18,18 +18,6 @@
                     <attribute id="WeaponType_OneHanded" type="FixedString" value="Crossbow1H"/>
                     <attribute id="WeaponType_TwoHanded" type="FixedString" value="Crossbow1H"/>
                 </node>
-                 <node id="EquipmentType">
-                 <!--
-                    <attribute id="BoneMainUnsheathed" type="FixedString" value="Dummy_R_Hand"/>
-                    <attribute id="BoneOffHandUnsheathed" type="FixedString" value="Dummy_L_Hand"/>
-                -->
-                    <attribute id="Name" type="FixedString" value="FingerGuns"/>
-                    <attribute id="SoundAttackType" type="FixedString" value="Crossbow"/>
-                    <attribute id="SoundEquipmentType" type="FixedString" value="Crossbow"/>
-                    <attribute id="UUID" type="guid" value="b6f59cac-c0f5-434c-a283-ba38e1e15d54"/>
-                    <attribute id="WeaponType_OneHanded" type="FixedString" value="Crossbow1H"/>
-                    <attribute id="WeaponType_TwoHanded" type="FixedString" value="Crossbow1H"/>
-                </node>
 			</children>
 		</node>
 	</region>

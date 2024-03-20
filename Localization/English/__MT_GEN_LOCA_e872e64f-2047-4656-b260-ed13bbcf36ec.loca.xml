@@ -76,13 +76,13 @@
 	<content contentuid="ha402d69a04d846808c4550690e02dd8e154d" version="1">Advanced Firearm Maintenance Kit</content>
 	<content contentuid="h66f6326cg7871g4a2dg8ac2g9f4fa46f1e81" version="1">Contains a high quality set of tools that includes a cleaning rod, jags, patches, brushes, chemicals, a cleaning swab, oils, and rags to keep your firearm in excellent working order.&lt;br&gt;UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
 	<content contentuid="hd626ea3cga23fg4440ga97ag783fb1149cfd" version="1">Novice Gunslinger Revolver</content>
-	<content contentuid="h59664035g6932g441fg81f7g94b4f6f80239" version="1">A used weapon that hasn't been maintained well. This is a novice Gunslingers revolver.&lt;br&gt;You should look around for some maintenance tools.</content>
+	<content contentuid="h59664035g6932g441fg81f7g94b4f6f80239" version="1">A used weapon that hasn't been maintained well. &lt;br&gt;You should look around for some maintenance tools.</content>
 	<content contentuid="hd81a1e28g574cg42b5gabd0gd85f3bb2984f" version="1">Advanced Gunslinger Revolver</content>
 	<content contentuid="h60b9cbcfgf43ag441ag8169g2e0341f0b796" version="1">A clean and well maintained weapon.&lt;br&gt;You should look around for better quality maintenance tools.</content>
 	<content contentuid="h719b8c30ga38bg4a69gb3eagf43aa9819257" version="1">Experienced Gunslinger Revolver</content>
-	<content contentuid="he2775c69g494bg48dega642g39e3112ead9c" version="1">An immaculately maintained weapon.&lt;br&gt;With some specialized tools you could probably remake this gun into something special.</content>
+	<content contentuid="he2775c69g494bg48dega642g39e3112ead9c" version="1">An immaculately maintained weapon.&lt;br&gt;With some specialized tools you could probably remake this into something special.</content>
 	<content contentuid="h657d4a00544b482aacada2f38d26d444b83b" version="1">Expert Gunslinger Revolver</content>
-	<content contentuid="h429a6be98335474cb7ccc23dd6bd7323089c" version="1">In the hands of an expert Gunslinger, this weapon is nearly perfect.&lt;br&gt;You wonder if there are any better guns to be found.</content>
+	<content contentuid="h429a6be98335474cb7ccc23dd6bd7323089c" version="1">In the hands of an expert Gunslinger, this weapon is nearly perfect.&lt;br&gt;You wonder if there are any better to be found.</content>
 	<content contentuid="h22dbf160563d41ac908e3351f6bdcd25d6e7" version="1">Armament of Eld</content>
 	<content contentuid="h06d21706f0bb4f5693c9d73bc24eca3e856f" version="1">This is the weapon of a master Gunslinger.</content>
 	<content contentuid="h7da7b7263a3e4a0787910df48d1eb2e10664" version="1">Firearm Mini Forge</content>
@@ -118,10 +118,9 @@
     <content contentuid="h8ed5a71e9ade4dc1bfe3e35b2349778bcdee" version="1">Advanced Dirge Revolver</content>
     <content contentuid="h6e3fe2e3066b47a48e85aae5eca2d31b88cc" version="1">Experienced Dirge Revolver</content>
     <content contentuid="hb59f455166694bb59f3bd102cce9f41cd64g" version="1">Expert Dirge Revolver</content>
-    <content contentuid="h2fad8dd1fac3473f88cbcce5388d19d2gffe" version="1">Armament of Eld</content>
+    <content contentuid="h2fad8dd1fac3473f88cbcce5388d19d2gffe" version="1">Armament of Maerlyn</content>
     <content contentuid="hbd6b090a5b2047e999e491543dedf11a513b" version="1">Expert Dirge Revolver</content>
-    <content contentuid="h78c176bbe0df4210b013cf42b728aa0fda73" version="1">Armament of Eld</content>
-    <content contentuid="he6cb24f5225145cabeac351e793e35cba20g" version="1">BLAH</content>
+    <content contentuid="h78c176bbe0df4210b013cf42b728aa0fda73" version="1">Armament of Maerlyn</content>
 	<!--GUNBREAKER-->
     <content contentuid="hb3dff921676345129b100b351a822eb54c76" version="1">Gunbreaker</content>
 	<content contentuid="hcd446cb7a5b94612b33bd8d79e830da14d82" version="1">The Gunbreaker is a mysterious nomadic warrior. This subclass is a defensive high mobility skirmisher that focuses on controlling and harassing enemies. With a wide variety of ammo types, the Gunbreaker has a shot for every occasion.</content>
@@ -184,9 +183,16 @@
 	<content contentuid="h7dea1de68e164239b9889effc8b4331173eb" version="1">Basic Gunblade Maintenance Kit</content>
     <content contentuid="hfee9ca37fcd140ea8c21e310f33d168730f4" version="1">Advanced Gunblade Maintenance Kit</content>
     <content contentuid="h540924627dd348bd9132561f9d6585cf15c8" version="1">Gunblade Mini Forge</content>
+	<content contentuid="h6d88e8ba819b406fb119aef9ba35865eb781" version="1">Novice Gunblade</content>
+    <content contentuid="ha394c3c8f27d4969a6f001e946ab21d6646b" version="1">Advanced Gunblade</content>
+    <content contentuid="h3e2d3320f02f49c793ffea0219917f480372" version="1">Experienced Gunblade</content>
+    <content contentuid="h34134dc7a561492cb713c682cb3dd1f4c3ag" version="1">Expert Gunblade</content>
+    <content contentuid="hd06e13485b3b4ed88394e8292d8ca7b3a131" version="1">Gunblade of Eld</content>
 	<!--Gunjitsu-->
 	<content contentuid="hf2ce0a4884a34d8d8d39d21d49a4e68601f8" version="1">Gunjitsu: The Way of the Gun</content>
     <content contentuid="h25f139086d1249988cc2a6f951bc8e176f26" version="1">This subclass is not ready for play. Do not use this subclass.</content>
-    <content contentuid="h06783a53fe08408fbc958149e8e81b03c52d" version="1">Novice Gunjitsu Attack</content>
-    <content contentuid="h1d69e10af6444ad69fcb850315515a46482a" version="1">The attack of a novice, you will improve with practice.</content>
+    <content contentuid="h1d69e10af6444ad69fcb850315515a46482a" version="1">Novice Gunjitsu Attack</content>
+    <content contentuid="h06783a53fe08408fbc958149e8e81b03c52d" version="1">The attack of a novice, you will improve with practice.</content>
+    <content contentuid="hbebc3d26c9d94496b9d555b4509cf754b3e8" version="1">Novice Gunjitsu Dual Attack</content>
+
 </contentList>

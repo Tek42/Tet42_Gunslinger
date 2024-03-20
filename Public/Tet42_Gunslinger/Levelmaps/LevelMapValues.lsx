@@ -188,6 +188,22 @@
                     <attribute id="Name" type="FixedString" value="GunbreakerOverheat"/>
                     <attribute id="UUID" type="guid" value="c14ffb10-8480-453a-9bc8-1de6dc90b843"/>
                 </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d4,Psychic"/>
+                    <attribute id="Level10" type="LSString" value="1d8,Psychic"/>
+                    <attribute id="Level11" type="LSString" value="1d8,Psychic"/>
+                    <attribute id="Level12" type="LSString" value="1d8,Psychic"/>
+                    <attribute id="Level2" type="LSString" value="1d4,Psychic"/>
+                    <attribute id="Level3" type="LSString" value="1d6,Psychic"/>
+                    <attribute id="Level4" type="LSString" value="1d6,Psychic"/>
+                    <attribute id="Level5" type="LSString" value="1d6,Psychic"/>
+                    <attribute id="Level6" type="LSString" value="1d6,Psychic"/>
+                    <attribute id="Level7" type="LSString" value="1d6,Psychic"/>
+                    <attribute id="Level8" type="LSString" value="1d6,Psychic"/>
+                    <attribute id="Level9" type="LSString" value="1d8,Psychic"/>
+                    <attribute id="Name" type="FixedString" value="GJ_MartialArts"/>
+                    <attribute id="UUID" type="guid" value="f87d57dc-7958-41b1-a7e4-d273e7dae3a3"/>
+                </node>
             </children>
         </node>
     </region>

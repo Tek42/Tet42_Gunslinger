@@ -17,12 +17,22 @@
                 <node id="AbilityDistributionPreset">
                     <attribute id="ClassUUID" type="guid" value="e34da442-e52a-40d4-8b7a-da610c37f138"/>
                     <attribute id="Charisma" type="int32" value="10"/>
-                    <attribute id="Constitution" type="int32" value="13"/>
-                    <attribute id="Dexterity" type="int32" value="12"/>
-                    <attribute id="Intelligence" type="int32" value="12"/>
+                    <attribute id="Constitution" type="int32" value="14"/>
+                    <attribute id="Dexterity" type="int32" value="13"/>
+                    <attribute id="Intelligence" type="int32" value="10"/>
                     <attribute id="Strength" type="int32" value="15"/>
                     <attribute id="Wisdom" type="int32" value="10"/>
                     <attribute id="UUID" type="guid" value="57163b4f-0fac-4f91-90bd-b4b519e8aa56"/>
+                </node>
+                <node id="AbilityDistributionPreset">
+                    <attribute id="ClassUUID" type="guid" value="c521515d-a7c2-4404-9d84-4ef5d6a213ff"/>
+                    <attribute id="Charisma" type="int32" value="10"/>
+                    <attribute id="Constitution" type="int32" value="13"/>
+                    <attribute id="Dexterity" type="int32" value="14"/>
+                    <attribute id="Intelligence" type="int32" value="10"/>
+                    <attribute id="Strength" type="int32" value="10"/>
+                    <attribute id="Wisdom" type="int32" value="15"/>
+                    <attribute id="UUID" type="guid" value="3689b6a1-00e7-4306-a6d9-d2968ecf4af3"/>
                 </node>
             </children>
         </node>

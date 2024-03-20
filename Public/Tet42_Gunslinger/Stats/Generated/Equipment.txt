@@ -82,19 +82,19 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 new equipment "EQP_CC_Tet42_Gunjitsu"
 add initialweaponset "Ranged"
 add equipmentgroup
-add equipment entry "GJ_Palm_Pistol"
+add equipment entry "GJ_FingerGun"
 add equipmentgroup
-add equipment entry "GJ_Palm_Pistol"
+add equipment entry "GJ_FingerGun"
+add equipmentgroup
+add equipment entry "ARM_Monk"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
-add equipmentgroup
-add equipment entry "ARM_Boots_Leather"
-add equipmentgroup
-add equipment entry "ARM_Leather_Body"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "ARM_Shoes_Monk"
 add equipmentgroup
 add equipment entry "OBJ_Keychain"
 add equipmentgroup
