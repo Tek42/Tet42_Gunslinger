@@ -71,9 +71,9 @@
 	<content contentuid="h76f6ce90g1c50g47bcg94aeg58088544d88c" version="1">Gunslinger Smite: Reaction</content>
 	<content contentuid="hf7bb24f8g80d6g4a2bg958egd78daf7aeb8b" version="1">Gunslinger Smite Critical: Reaction</content>
 	<content contentuid="hd06e672dg93edg42b4g83f5gf0a84008f274" version="1">Deals an additional [1] per level.</content>
-	<content contentuid="h8c0c1fefg8c2fg443cg8bc3gb07926d661b1" version="1">Basic Firearm Maintenance Kit&lt;br&gt;UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
+	<content contentuid="h8c0c1fefg8c2fg443cg8bc3gb07926d661b1" version="1">Basic Firearm Maintenance Kit - UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
 	<content contentuid="ha6bfa880gfd81g446aga185g397c76cdd255" version="1">Contains a basic quality set of tools that includes a cleaning rod, brushes, a cleaning swab, oils, and rags to keep your firearm in working order.&lt;br&gt;UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
-	<content contentuid="ha402d69a04d846808c4550690e02dd8e154d" version="1">Advanced Firearm Maintenance Kit</content>
+	<content contentuid="ha402d69a04d846808c4550690e02dd8e154d" version="1">Advanced Firearm Maintenance Kit - UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
 	<content contentuid="h66f6326cg7871g4a2dg8ac2g9f4fa46f1e81" version="1">Contains a high quality set of tools that includes a cleaning rod, jags, patches, brushes, chemicals, a cleaning swab, oils, and rags to keep your firearm in excellent working order.&lt;br&gt;UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
 	<content contentuid="hd626ea3cga23fg4440ga97ag783fb1149cfd" version="1">Novice Gunslinger Revolver</content>
 	<content contentuid="h59664035g6932g441fg81f7g94b4f6f80239" version="1">A used weapon that hasn't been maintained well. &lt;br&gt;You should look around for some maintenance tools.</content>
@@ -85,7 +85,7 @@
 	<content contentuid="h429a6be98335474cb7ccc23dd6bd7323089c" version="1">In the hands of an expert Gunslinger, this weapon is nearly perfect.&lt;br&gt;You wonder if there are any better to be found.</content>
 	<content contentuid="h22dbf160563d41ac908e3351f6bdcd25d6e7" version="1">Armament of Eld</content>
 	<content contentuid="h06d21706f0bb4f5693c9d73bc24eca3e856f" version="1">This is the weapon of a master Gunslinger.</content>
-	<content contentuid="h7da7b7263a3e4a0787910df48d1eb2e10664" version="1">Firearm Mini Forge</content>
+	<content contentuid="h7da7b7263a3e4a0787910df48d1eb2e10664" version="1">Firearm Mini Forge - UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
 	<content contentuid="h23ffe6d7a93b45b8a79ac1f6391bf6184847" version="1">A small forge with tools that will enable you to break down your existing gun to create something new.&lt;br&gt;UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
 	<content contentuid="hcac39e2b23ad458e9f0ad76182e9f9cfg214" version="1">Improved Gunslinger Smite</content>
 	<content contentuid="h9cf3f4afa32649dfb65c79f6f95b66237073" version="1">Your attacks are infused with extra force.&lt;br&gt;&lt;br&gt;Ranged weapon attacks deal an additional [1].</content>
@@ -180,9 +180,9 @@
 	<content contentuid="he1a1b81fe17d43c380f94a5fb09a1d0626c2" version="1">Whenever you inflict &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;, you gain 1 turn of &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Overheat&lt;/LSTag&gt;.</content>
 	<content contentuid="h62cc5024ee754174a9524a3ca80ac5014b18" version="1">Hot Lead</content>
 	<content contentuid="h3e6b7f8b273943709628109a518fd623f773" version="1">Whenever you deal Fire damage, you gain 2 turns of &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Overheat&lt;/LSTag&gt;.</content>
-	<content contentuid="h7dea1de68e164239b9889effc8b4331173eb" version="1">Basic Gunblade Maintenance Kit</content>
-    <content contentuid="hfee9ca37fcd140ea8c21e310f33d168730f4" version="1">Advanced Gunblade Maintenance Kit</content>
-    <content contentuid="h540924627dd348bd9132561f9d6585cf15c8" version="1">Gunblade Mini Forge</content>
+	<content contentuid="h7dea1de68e164239b9889effc8b4331173eb" version="1">Basic Gunblade Maintenance Kit - UNEQUIP YOUR GUNBLADE BEFORE UPGRADING</content>
+    <content contentuid="hfee9ca37fcd140ea8c21e310f33d168730f4" version="1">Advanced Gunblade Maintenance Kit - UNEQUIP YOUR GUNBLADE BEFORE UPGRADING</content>
+    <content contentuid="h540924627dd348bd9132561f9d6585cf15c8" version="1">Gunblade Mini Forge - UNEQUIP YOUR GUNBLADE BEFORE UPGRADING</content>
 	<content contentuid="h6d88e8ba819b406fb119aef9ba35865eb781" version="1">Novice Gunblade</content>
     <content contentuid="ha394c3c8f27d4969a6f001e946ab21d6646b" version="1">Advanced Gunblade</content>
     <content contentuid="h3e2d3320f02f49c793ffea0219917f480372" version="1">Experienced Gunblade</content>
