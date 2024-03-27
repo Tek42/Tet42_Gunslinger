@@ -200,6 +200,13 @@
                     <attribute id="V1" type="float" value="0.2"/>
                     <attribute id="V2" type="float" value="0.3"/>
                 </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="GB_Dragonfire"/>
+                    <attribute id="U1" type="float" value="0.8"/>
+                    <attribute id="U2" type="float" value="0.9"/>
+                    <attribute id="V1" type="float" value="0.2"/>
+                    <attribute id="V2" type="float" value="0.3"/>
+                </node>
             </children>
         </node>
     </region>

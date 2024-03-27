@@ -94,9 +94,9 @@
 	<content contentuid="h58938a89858444bc9f3783c1284ca8eba40d" version="1">Trick Shot</content>
 	<content contentuid="h11740c524cfe43709ddbde0bbfb7b030d36d" version="1">Fire [1] shots at targets of your choice. Dealing weapon damage to each target.</content>
 	<!--DIRGE-->
-	<content contentuid="ha8e79010b9d141e3a83633e4626645f32b1d" version="1">Basic Dirge Firearm Maintenance Kit</content>
-    <content contentuid="hf4e6ec4f4ace456eb70a3b02e4cc0af42cf0" version="1">Advanced Dirge Firearm Maintenance Kit</content>
-    <content contentuid="hb8411e0eac9f4d50af483858044c94b58087" version="1">Dirge Firearm Mini Forge</content>
+	<content contentuid="ha8e79010b9d141e3a83633e4626645f32b1d" version="1">Basic Dirge Firearm Maintenance Kit - UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
+    <content contentuid="hf4e6ec4f4ace456eb70a3b02e4cc0af42cf0" version="1">Advanced Dirge Firearm Maintenance Kit - UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
+    <content contentuid="hb8411e0eac9f4d50af483858044c94b58087" version="1">Dirge Firearm Mini Forge - UNEQUIP YOUR GUNS BEFORE UPGRADING</content>
     <content contentuid="h1d1de643e2de4844957d8c531ca0965270dc" version="1">Dirge Gun Transmogger</content>
 	<content contentuid="hd64fcc4eg3702g4897gbcd5g5fa6972566e8" version="1">Dirge</content>
 	<content contentuid="habf94624g1ea5g4af3gb717gca10ea61cbea" version="1">These Gunslingers follow a darker path. They have forsaken their oaths and dabble in necromancy and other foul arts.</content>
@@ -176,6 +176,8 @@
 	<content contentuid="hac849a3ea5b94eea8e2e5c3b93b573a7ef64" version="2">Overheat Convergence</content>
 	<content contentuid="hbb90c24ac1e7406ab5372db179019c28f30b" version="1">Consume your &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Overheat&lt;/LSTag&gt; to fuel a powerful attack. </content>
 	<content contentuid="hd1ce23f8e3924a39bc6c95ee52a8517fagdb" version="1">The next time you deal Fire damage, you deal an additional [1] for every turn of overheat remaining.</content>
+	<content contentuid="hc9845a4911224f0daadca706eacccf70d6b9" version="1">Dragonfire</content>
+    <content contentuid="hdbcfea84208f4fcabca2a5ad03f9abfdfcbe" version="1">A cone of flame erupts from your blade doing fire damage and burning all in the area of effect.</content>
 	<content contentuid="h03eee95834dc49e7a80ec3af88c867876cf7" version="1">Hellfire</content>
 	<content contentuid="he1a1b81fe17d43c380f94a5fb09a1d0626c2" version="1">Whenever you inflict &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;, you gain 1 turn of &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Overheat&lt;/LSTag&gt;.</content>
 	<content contentuid="h62cc5024ee754174a9524a3ca80ac5014b18" version="1">Hot Lead</content>
@@ -194,5 +196,4 @@
     <content contentuid="h1d69e10af6444ad69fcb850315515a46482a" version="1">Novice Gunjitsu Attack</content>
     <content contentuid="h06783a53fe08408fbc958149e8e81b03c52d" version="1">The attack of a novice, you will improve with practice.</content>
     <content contentuid="hbebc3d26c9d94496b9d555b4509cf754b3e8" version="1">Novice Gunjitsu Dual Attack</content>
-
 </contentList>

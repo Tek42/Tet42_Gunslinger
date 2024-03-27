@@ -146,7 +146,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunbreaker Level 7" />
-          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="Spells" type="LSString" value="GB_Dragonfire" />
           <attribute id="UUID" type="guid" value="d244f45c-9827-48aa-9baf-f9157ad780a4" />
         </node>
         <node id="SpellList">
