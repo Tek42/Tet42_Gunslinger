@@ -7,6 +7,12 @@ new entry "GB_OVERHEAT"
 		data "SoundStop" ""
 		data "Boosts" "ActionResource(GB_OverHeat,1,0)"
 
+new entry "GB_KA_RESTORE"
+	type "StatusData"
+		data "StatusType" "BOOST"
+		data "OnApplyFunctors" "RestoreResource(Ka,100%,0)"
+		data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;NonExtendable"
+
 new entry "THESE_BOOTS"
 	type "StatusData"
 		data "StatusType" "BOOST"

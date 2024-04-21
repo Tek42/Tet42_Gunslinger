@@ -35,7 +35,6 @@
         <node id="ActionResourceDefinition">
           <attribute id="Description" type="TranslatedString" handle="h445c7b751ed9480c94683727af45de2b5e0d" version="1" />
           <attribute id="DisplayName" type="TranslatedString" handle="h5f5694f5ab7b4b4495479ff1fa5b5073g601" version="1" />
-          <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_4_Error" />
           <attribute id="IsSpellResource" type="bool" value="false" />
           <attribute id="MaxLevel" type="uint32" value="" />
           <attribute id="DiceType" type="uint32" value="0" />

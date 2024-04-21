@@ -38,12 +38,12 @@
 	<content contentuid="h9a100deebdae4f41a7c645f447d97eef195a" version="1">Full Reload</content>
 	<content contentuid="h15710e2a712a47fea5af4e7c53a63107db0a" version="1">Reloads your main and off hand guns.</content>
 	<content contentuid="h63b2c153b6bc4e78a428f9568b930bca9b42" version="1">Banishing Shot</content>
-	<content contentuid="hcbf002c7519342819bab37d7393f9a77928e" version="1">Weapon damage and the target will be banished for 2 turns.</content>
+	<content contentuid="hcbf002c7519342819bab37d7393f9a77928e" version="1">Does weapon damage and the target will be banished for 2 turns.</content>
 	<content contentuid="h95536af43b204f4b8e3b2849a8cf053c9893" version="1">The target is banished for 2 turns.</content>
 	<content contentuid="h9c275d8fc2d543fbbc24cc562e8cc292399a" version="1">Gunslinger: Point-Blank</content>
 	<content contentuid="hdd9b611882154f0ebabcee061e5d7efa6b62" version="1">When you make ranged weapon attacks within melee range, the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; do not have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
 	<content contentuid="h412fb35c01f6465183f83993db61d5837ba4" version="1">Gunslinger: Evasion</content>
-	<content contentuid="h359bdb7e78e043a59b8e18d68ef10a915c1g" version="1">You can evade attacks by imposing &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on melee attacks against you for a round.</content>
+	<content contentuid="h359bdb7e78e043a59b8e18d68ef10a915c1g" version="1">Your agility lets you dodge out of the way of certain spells.&lt;br&gt;&lt;br&gt;When a spell or effect would deal half damage on a successful Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, it deals no damage if you succeed, and only half damage if you fail.</content>
 	<content contentuid="he6c59ef1952c45bebcbce1c6c0fb165836ee" version="1">Gunslinger's Resolve</content>
 	<content contentuid="h94dbae90f864477292d7d0adedafff67a694" version="1">On Damage Rolls, roll twice and use the higher result.</content>
 	<content contentuid="h38ac143ce5f14e7c9ea372c17d8e6ad8f47g" version="1">Fighting Style: Gunslinging</content>
@@ -190,10 +190,14 @@
     <content contentuid="h3e2d3320f02f49c793ffea0219917f480372" version="1">Experienced Gunblade</content>
     <content contentuid="h34134dc7a561492cb713c682cb3dd1f4c3ag" version="1">Expert Gunblade</content>
     <content contentuid="hd06e13485b3b4ed88394e8292d8ca7b3a131" version="1">Gunblade of Eld</content>
+    <content contentuid="h0294feeafebb41dc8d22bc316a56afa230fd" version="1">Gunbreaker Main-Hand Ranged Attack</content>
+    <content contentuid="h9883e8df946543328a0b79443ff2be92gfad" version="1">Standard Main-Hand Ranged Attack</content>
 	<!--Gunjitsu-->
 	<content contentuid="hf2ce0a4884a34d8d8d39d21d49a4e68601f8" version="1">Gunjitsu: The Way of the Gun</content>
     <content contentuid="h25f139086d1249988cc2a6f951bc8e176f26" version="1">This subclass is not ready for play. Do not use this subclass.</content>
     <content contentuid="h1d69e10af6444ad69fcb850315515a46482a" version="1">Novice Gunjitsu Attack</content>
     <content contentuid="h06783a53fe08408fbc958149e8e81b03c52d" version="1">The attack of a novice, you will improve with practice.</content>
     <content contentuid="hbebc3d26c9d94496b9d555b4509cf754b3e8" version="1">Novice Gunjitsu Dual Attack</content>
+
+    <content contentuid="h671f7ddec73b4c5d94990b51613d10cb0g1b" version="1">Gunbreaker Attack of Opportunity</content>
 </contentList>

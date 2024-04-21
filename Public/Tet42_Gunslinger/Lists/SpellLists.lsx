@@ -146,7 +146,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunbreaker Level 7" />
-          <attribute id="Spells" type="LSString" value="GB_Dragonfire" />
+          <attribute id="Spells" type="LSString" value="GB_Dragonfire;GB_AttackOfOpportunity_Unlock" />
           <attribute id="UUID" type="guid" value="d244f45c-9827-48aa-9baf-f9157ad780a4" />
         </node>
         <node id="SpellList">
@@ -186,7 +186,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunjitsu Level 3" />
-          <attribute id="Spells" type="LSString" value="Target_GJ_OpenHandTechnique_Push;Target_GJ_OpenHandTechnique_NoReactions;Target_GJ_OpenHandTechnique_Knock" />
+          <attribute id="Spells" type="LSString" value="Target_GJ_OpenHandTechnique_Push;Target_GJ_OpenHandTechnique_NoReactions;Target_GJ_OpenHandTechnique_Knock;GJ_ShadowStrike" />
           <attribute id="UUID" type="guid" value="31e3b9fa-389e-49b9-baea-8436458322d8" />
         </node>
         <node id="SpellList">
